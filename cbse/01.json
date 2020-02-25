@@ -1,0 +1,3608 @@
+{
+  "study_materials": {
+    "physics": [
+      {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+      },
+      {
+        "topic_name": "Capacitor",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "concepts": [
+              "1. Introduction",
+              "2. Limitation on charging a conductor",
+              "3. Capacitance",
+              "4. The capacitor",
+              "5. Capacitors in Electric Circuits",
+              "6. Parallel-Plate Capacitor",
+              "7. Plates of a Parallel Plate Capacitor carrying Different charge",
+              "8. Cylindrical Capacitor",
+              "9. The potential difference is given by",
+              "10. Spherical capacitor",
+              "11. Force on the Plates of capacitor",
+              "12. Storing Energy in capacitor",
+              "13. Energy Density of the Electric Field",
+              "14. First law of thermodynamics in capacitors",
+              "15. Dielectrics"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 291,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "16. Calculation of induced (polarised) charge on dielectric",
+              "17. Capacitor Containing Dielectrics without Battery",
+              "18. Capacitance of capacitor filled partially with dielectric",
+              "19. Energy Related discussion for dielectric capacitor",
+              "20. RC Circuit",
+              "21. Discharging a Capacitor"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1076,
+        "topic_name": "Centre of Mass, Momentum, and collision",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 292,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Position of centre of mass",
+              "3.Motion of centre of mass",
+              "4.Two body System"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 293,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "5.Linear momentum and its conservation principle",
+              "6.The C-Frame",
+              "7.Kinetic energy of system of particles",
+              "8.A system of two particles",
+              "9.Impulse",
+              "10.Collisions"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 294,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "11.Laws of collision",
+              "12.Head-on collison",
+              "13.Oblique collision"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1765,
+        "topic_name": "Circular Motion & Work, Power, and Energy",
+        "sub_topic": [
+          {
+            "name": "CIRCULAR MOTION",
+            "id": 295,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1. Circular motion",
+              "2. Uniform circular motion",
+              "3. Non-uniform circular motion",
+              "4. Dynamics of circular motion",
+              "5. Conical pendulum",
+              "6. Banking of road",
+              "7. Centrifugal force"
+            ]
+          },
+          {
+            "name": "WORK ENERGY AND POWER",
+            "id": 296,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "9. Work",
+              "10. Work done by friction",
+              "11. Work done by gravity",
+              "12. Work done by a variable force",
+              "13. Work done by spring force",
+              "14. Work energy theorem",
+              "15. Conservative and non-consevative forces",
+              "16. Potential energy",
+              "17. Elastic potential energy",
+              "18. Conservation of mechanical energy",
+              "19. Types of equilibrium",
+              "20. Vertical circular motion"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1084,
+        "topic_name": "Current Electricity",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 297,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "l. Introduction",
+              "2. Electric Current",
+              "3. Current Density ( vector J )",
+              "4. Drift velocity",
+              "5. Ohms Law",
+              "6. Resistance",
+              "7. Resistivity ( ), Conductivity ( ) and Conductance",
+              "8. Colour Coding of Resistance",
+              "9. Grouping of Resistance",
+              "10. Electric cell or Battery",
+              "11. Cell in various Positions"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 298,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "12. Grouping of Cells",
+              "13. Kirchoffs Laws",
+              "14. Circuit solving Techniques",
+              "15 Energy conversion and electrical power",
+              "16. Different Measuring Instruments",
+              "17. Wheatstone bridge",
+              "18. Application of Wheatstone bridge"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1766,
+        "topic_name": "Elasticity, Calorimetry, and Thermal Expansion",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "ELASTICITY",
+            "id": 299,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1.Elasticity",
+              "2.Hookes Law",
+              "3.Elasitc Potential Energy",
+              "4.Stress-Strain Curve",
+              "5.Shearing stress",
+              "6.Bulk modulus",
+              "7.Poissons ration"
+            ]
+          },
+          {
+            "name": "CALORIMETRY",
+            "id": 300,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "8.Principle of Calrimetry",
+              "9.Specific heat capacity",
+              "10.Latent heat",
+              "11.Heating curve",
+              "12.Water equivalent",
+              "13.Thermal expansion",
+              "14.Thermal expansion of bimetallic strip",
+              "15.Area and volume expansion",
+              "16.Thermal stress",
+              "17.Expansion of liquids",
+              "18.Effect of temperature on density"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1774,
+        "topic_name": "Electromagnetic Induction and Alternating Current",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 301,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "l. Electro magnetic induction",
+              "2. Lenzs law (Deciding direction of inducted e.m.f.)",
+              "3. Lenzs law and conservation of energy",
+              "4. Faradays law",
+              "5. Generators",
+              "6. Motional EMF",
+              "7. Induced electric field",
+              "8. Eddy currents",
+              "10. Energy stored in inductor",
+              "11. Energy density in a magnetic field"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 302,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "12. Growth and decay of current in L-R circuit",
+              "13. Mutual inductance",
+              "14 LC oscillations",
+              "15. Mechanical analogy"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 303,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "17. Alternating current",
+              "18. Basic principle of AC generaton",
+              "19. Average values of ac voltage and ac current",
+              "20. Ac voltage applied to a resistor",
+              "21. Representation of AC current and voltage by rotating vectors - Phasors",
+              "22. AC voltage applied to an inductor",
+              "23. AC voltage applied to A capacitor",
+              "24. AC voltage applied to a series LCR circuit",
+              "25. Phasor-Diagram solution",
+              "26. Resonance",
+              "27. Power in AC circuits: The power factor"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1090,
+        "topic_name": "Electrostatics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 304,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "l. Introductrion",
+              "2. Electric charge",
+              "3. Basic properties of electric charge",
+              "4. Classification of substance on the Basis of Electrical passage",
+              "5. Charging of body",
+              "6. Coulomb's Law",
+              "7. Superposition of Electrostatic Forces",
+              "8. Electric field",
+              "9. Continuous charge distribution"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 305,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "10. Electric filed lines",
+              "11. Equilibrium and Motion of Charged Particles in the presence of Electric Field",
+              "12. Gauss's Law",
+              "13. Electric potential energy",
+              "14. Electric potential"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 306,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "15 Relation ship between electric field and electric Potential",
+              "16. Energy Density of an Electric Field",
+              "17. Electric Dipole",
+              "18. Conductor"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1510,
+        "topic_name": "Fluid Mechanics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 307,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1. Introduction",
+              "2. Pressure and pressure measuring devices",
+              "3. Linear acceleration motion",
+              "4. Rotating vessel",
+              "5. Pascals principle and the hydraulic lever",
+              "6. Archimedes principle"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 308,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "7. Floating",
+              "8. Stability",
+              "9. Fluid dynamics"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 309,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "10. Surface tension and viscosity",
+              "11. Viscosity",
+              "12. Terminal velocity"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1099,
+        "topic_name": "Geometrical Optics",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 310,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1. Reflection of light at plane surface",
+              "2. Reflection at spherical mirror"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 311,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "3. Refraction of light at plane surface"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 312,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "4. Formation of image by a Spherical refracting Surface",
+              "5. Refraction through lens"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 366,
+            "total_pages": 31,
+            "updated_at": "2017-03-15T11:54:15.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 367,
+            "total_pages": 6,
+            "updated_at": "2017-03-16T10:14:40.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 368,
+            "total_pages": 29,
+            "updated_at": "2017-03-15T11:54:15.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 369,
+            "total_pages": 17,
+            "updated_at": "2017-03-15T11:54:15.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 370,
+            "total_pages": 23,
+            "updated_at": "2017-03-15T11:54:15.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1100,
+        "topic_name": "Gravitation",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 313,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "l. Introduction",
+              "2. Origin of the Law of Gravitation",
+              "3. Characteristics of The Gravitational force",
+              "4. Gravitational Field or gravitational field strength",
+              "5. Gravitational field due to point mass at a distance r",
+              "6. Gravitational Field Strength due to a Ring",
+              "7. Gravitational potential energy",
+              "8. Gravitational Potential",
+              "9. The motion of planets and satellites"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 314,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "10.Energy consideration in planetary and satellite motion",
+              "11. Escape Velocity",
+              "12. Kepler Laws",
+              "13. Broadcasting Region of a Satellite"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1298,
+        "topic_name": "Heat Transfer",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 315,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Convection",
+              "3.Radiation",
+              "4.Newtons law of cooling",
+              "5.Spectral emmissive power",
+              "6.Law of block body radiation"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1302,
+        "topic_name": "Kinematics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 316,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Various quantities used in Kinematics",
+              "3.Motion with variable acceleration",
+              "4.Graphical Representation of Motion in one Dimension",
+              "5.Vertical motion under gravity (Free fall)",
+              "6.Projectile Motion"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 317,
+            "total_pages": 5,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "7.Projectile thrown On An Inclined plane"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 318,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "9.Relative Velocity",
+              "10.Rain - Man Problems",
+              "11.River-Swimmer Problems",
+              "12.Relative Motion Between two Projectiles"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1768,
+        "topic_name": "Kinetic Theory of Gases and Thermodynamics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 319,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1. Introduction",
+              "2. The ideal-Gas Law",
+              "3. Equation of state",
+              "4. Internal energy",
+              "5. Heat and Thermodynamics"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 320,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "6. First law of thermodynamics",
+              "7. Carnot heat engine"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1769,
+        "topic_name": "Magnetic Effects of Current",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 321,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Earth's Magnetic field",
+              "3.Magnetism due to electricity",
+              "4.Biot-Savarts Law",
+              "5.Magnetic field due to finite straight wire",
+              "6.Magnetic field due to a current carrying arc at its centre",
+              "7.Magnetic field due to a circular current loop at a point on its axis",
+              "8.Magnetic field due to a solenoid at a point on its axis",
+              "9.Amperes law",
+              "10.Calculation of magnetic field due to long straight wire",
+              "11.Magnetic field due to a current carrying thin long pipe.",
+              "12.Magnetic field due to a current carrying rod having uniform current density",
+              "13.Magnetic field due to non uniform current density",
+              "14.Magnetic field due to long solenoid",
+              "15.Magnetic field due to toroid",
+              "16.Magnetic field thin sheet of infinite dimension carrying a current of uniform linear current density i",
+              "17.Magnetic field of moving point charge",
+              "18.Force on a moving charge in magnetic field"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 322,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "19.Motion of charged particle in uniform magnetic field",
+              "20.Helical path",
+              "21.Velocity selector",
+              "22.Mass spectrometer",
+              "23.Halls effect",
+              "24.Magnetic force on a current-carrying wire",
+              "25.Force between two parallel wires",
+              "26.Definition of Ampere"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 323,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "27.Magnetic moment",
+              "28.Torque on a current loop",
+              "29.Configuration energy of current loop in uniform magnetic field",
+              "30.Moving coil galvanometer"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 356,
+            "total_pages": 33,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1308,
+        "topic_name": "Mechanical Waves",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 324,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "1. Introduction",
+              "2. Travelling sine wave in one dimension",
+              "3. Velocity of transverse wave on a string",
+              "4. Energy transeffered by a progressive wave",
+              "5.Interference of waves",
+              "6.Reflection and Transmission of wave",
+              "7. Standing wave",
+              "8. Sound wave"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 325,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "9. Speed of sound wave",
+              "10. Intensity of sound wave",
+              "11. Appearance of sound to human ear",
+              "12. Vibration of air columns",
+              "13. Beats",
+              "14. Doppler effect"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1115,
+        "topic_name": "Modern Physics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Photo Electric Effect",
+            "id": 326,
+            "total_pages": 8,
+            "updated_at": "2017-03-06T10:03:04.000Z",
+            "concepts": [
+              "l. Photon Theory",
+              "2. Radiation Pressure",
+              "3. Photoelectric Effect",
+              "4. Stopping Potential",
+              "5. Wave Particle Duality",
+              "6. de-Broglie idea"
+            ]
+          },
+          {
+            "name": "Atomic Structure",
+            "id": 327,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "7. Thomson's Atomic Model",
+              "8. Rutherford's Model",
+              "9. Bohr's Model of hydrogen Atom",
+              "10. Calculating radius (r_n ) and speed (v^n ) of n th orbit",
+              "11. Excitation of atom",
+              "12. de-excitation of atom",
+              "13. Mass of the nucleus is comparable to mass of electron",
+              "14. Explanation of bohr quantisation rule from de-Broglie's Concept",
+              "15 Energy of a trapped electron"
+            ]
+          },
+          {
+            "name": "X-RAY",
+            "id": 328,
+            "total_pages": 5,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "16. Historical background",
+              "17. What are X-Rays",
+              "18. Coolidge tube",
+              "19. Continuous X-rays",
+              "20. Characteristic x-ray",
+              "21. Moseley's Law",
+              "22. Properties of X-Ray"
+            ]
+          },
+          {
+            "name": "Nuclear Physics",
+            "id": 329,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "23. Properties of a nucleus",
+              "24. Nuclear Forces",
+              "25. Mass defect",
+              "26. Nuclear Stability",
+              "27. Binding energy",
+              "28. Nuclear Fission",
+              "29. Conservation laws in nuclear reaction",
+              "30. Radioactivity",
+              "31. alpha-decay",
+              "32. beta decay",
+              "33. gamma- Decay",
+              "34. Group-Displacement Law",
+              "35. Rutherford-Soddy Law (Statistical Law)",
+              "36. Activity of a Radioactive Isotope",
+              "37. Survival probability and decay probability for a finite time interval",
+              "38. Successive disintegration and secular equilibrium"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 355,
+            "total_pages": 54,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1770,
+        "topic_name": "Newton's Laws of Motion and Friction",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 330,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "1.Force",
+              "2.Newtonian mechanics",
+              "3.Free body diagram"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 331,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "4.Spring force",
+              "5.Pseudo force",
+              "6.Friction",
+              "7.Static friction"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 332,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "8.Kinetic friction",
+              "9.Angle of friction",
+              "10.Angle to repose",
+              "11.Block over block problems"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1318,
+        "topic_name": "Rotational Dynamics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 333,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Rigid body",
+              "3.Kinetic Energy of Rotating body",
+              "4.Moment of Inertia",
+              "5.M.I. of some Common bodies",
+              "6.Parallel axis theorem",
+              "7.Perpendicular axis theorem",
+              "8.Radius of gyration"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 334,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "9.Torque",
+              "10.Rotational equilibrium",
+              "11.Rotational about fixed axis",
+              "12.Angular momentum"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 335,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "13.Relation between torque and Angular Momentum",
+              "14.Conservation of Angular Momentum",
+              "15.Instataneous Axis of rotation",
+              "16.Rolling"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1129,
+        "topic_name": "Semiconductors",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Semiconductor Theory",
+            "id": 336,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "1. Semiconductor theory"
+            ]
+          },
+          {
+            "name": "Communication System Theory",
+            "id": 337,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "2. Communication System theory"
+            ]
+          },
+          {
+            "name": "Errors in Measurements & Instruments theory",
+            "id": 338,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "1.Errors",
+              "2.Experiments",
+              "3.Coefficient of Viscosity"
+            ]
+          },
+          {
+            "name": "Errors in Measurements & Instruments theory",
+            "id": 339,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "4.Specific Heat Capacity",
+              "5.Resistance By Ohms Law",
+              "6.Convex Lens"
+            ]
+          },
+          {
+            "name": "Errors in Measurements & Instruments theory",
+            "id": 340,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "7.Minimum Deviation",
+              "8.Refractive Index of a Glass Slab",
+              "9.Characterisitc Curves of a Zener Diode"
+            ]
+          },
+          {
+            "name": "Errors in Measurements & Instruments theory",
+            "id": 341,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "10.Identification of Devices",
+              "11.Multmeter",
+              "12.Experiments in JEE advanced syllabus"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 358,
+            "total_pages": 50,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1322,
+        "topic_name": "Simple Harmonic Motion",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 342,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "1. Introduction",
+              "2. Equation of SHM",
+              "3. Characteristics of SHM",
+              "4. Graphical representation",
+              "5.Phasor method",
+              "6.Energy in SHM",
+              "7.Spring mass system",
+              "8.Methods to determine time period in SHM",
+              "9.Physical pendulum"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1771,
+        "topic_name": "Units and Dimensions, Basic Mathematics and Vectors",
+        "sub_topic": [
+          {
+            "name": "UNITS AND DIMENSIONS",
+            "id": 343,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "1.Physical Quantities",
+              "2.Set of fundamental quantities",
+              "3.Derived physical quantities",
+              "4.Dimensions and dimensional formula",
+              "5.Principle of homogeneity",
+              "6.Uses of dimensional analysis",
+              "7.Limitations of dimensional analysis",
+              "8.Order of magnitude calculation"
+            ]
+          },
+          {
+            "name": "VECTORS",
+            "id": 344,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "10.Introductrion",
+              "11.Representation of vectors",
+              "12.Terminology of vectors",
+              "13.Angle between vectors",
+              "14.Lows of addition and subtraction of vectors",
+              "15.Unit vector",
+              "16.Co-ordinate system",
+              "17.Concept of equilibrium",
+              "18.Position vector",
+              "19.Displacement vector",
+              "20.Product of vectors"
+            ]
+          },
+          {
+            "name": "BASIC MATHEMATICS",
+            "id": 345,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "22.Trigonometry",
+              "23.Calculus"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1144,
+        "topic_name": "Wave Optics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 346,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "1.Introductrion",
+              "2. Diffraction",
+              "3. Principle of Superposition",
+              "4. Theory of Interference",
+              "5. Coherent and Incoherent Sources",
+              "6. Young's Double Slit Experiement",
+              "7. Intensity of Two Source Interference",
+              "8. Important Points about YDSE",
+              "9. Shape of Interference Fringes in YDSE",
+              "10. YDSE with white light",
+              "11. Geometrical path and optical path"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 347,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:05.000Z",
+            "concepts": [
+              "12. Equivalent optical path length",
+              "13. Optical path length interms of wave lengths",
+              "14. Billet's Split-lens",
+              "15 Newtons Rings"
+            ]
+          }
+        ]
+      }
+    ],
+    "chemistry": [
+      {
+        "videos": "85 Videos",
+        "questions": "350 Questions",
+        "tests": "6 Test Series"
+      },
+      {
+        "topic_id": 1753,
+        "topic_name": "Alcohol, Ethers, Phenol, Oxidation, and Reduction",
+        "sub_topic": [
+          {
+            "name": "Alcohol",
+            "id": 163,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Methods of preparation",
+              "3.Physical properties",
+              "4.Chemical properties",
+              "5.General reaction of Alcohols",
+              "6.Difference between primary, secondary & tertiary alcohols"
+            ]
+          },
+          {
+            "name": "Ethers",
+            "id": 164,
+            "total_pages": 5,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "9.Introduction",
+              "10.Preparation",
+              "11.Physical Properties",
+              "12.Chemical Properties",
+              "13.Preparation"
+            ]
+          },
+          {
+            "name": "Phenol (C_6H_5OH)",
+            "id": 165,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "16.Methods of preparation",
+              "17.Physical Properties",
+              "18.Chemical properties"
+            ]
+          },
+          {
+            "name": "Oxidation of alkenes, Alcohols & Carbonyl compounds",
+            "id": 166,
+            "total_pages": 5,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "22.(I)\rOxidation of alkenes",
+              "23.(II)\rOxidation of alcohols",
+              "24.(III) Oxidation of Carbonyl compounds",
+              "25.Ketones are difficult to Oxidize"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1540,
+        "topic_name": "Aromatic Compound",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 167,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.Main Source",
+              "2.Benzene",
+              "3.Electrophilic aromatic substitution (EAS)",
+              "4.The general mechanism of EAS",
+              "5.Nitration of Benzene",
+              "6.Halogen of Benzene",
+              "7.Relative Reactivity of Substituted Benzene",
+              "8.Anamalous behaviour of halogen substituent"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 168,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "9.Halogen Compound",
+              "10.Nucleophilic substitution reactions",
+              "11.Aromatic SulphonicAcids"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 169,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "12.Middle oil of Coal-tar Distillation",
+              "13.Acidity of Phenols and Effect of Substituents on it",
+              "14.Formation of complexes with FeCl_3",
+              "15.Electrophilic Substitution In Benzene Nucleus",
+              "16.Halogenation",
+              "17.Carbonyl compounds",
+              "18.Perkin Reaction"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1151,
+        "topic_name": "Atomic Structure",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 170,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.Composition of atom",
+              "2.Thomson__s Model",
+              "3.Thomson__s Model",
+              "4.Moseley experiment",
+              "5.Atomic terms",
+              "6.Wave",
+              "7.Electromagnetic radiations",
+              "8.Planck__s quantum theory",
+              "9.Photoelectric effect",
+              "10.Bohr__s atomic model",
+              "11.Hydrogen spectrum",
+              "12.Bohr-Sommerfield__s model",
+              "13.Particle and wave nature of electron",
+              "14.Heisenberg__s uncertainty principle"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 171,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "15.Wave mechanical model of atom",
+              "16.Quantum numbers",
+              "17.Shape and size of orbitals",
+              "18.Electronic configuration of elements"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1153,
+        "topic_name": "Biomolecules",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 172,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "01. Classification of carbohydrates",
+              "02. Stereochemistry of carbohydrates",
+              "03. Cyclic structures of monosaccharides",
+              "04. Formation of Glycosides",
+              "05. Reactions of Glucose",
+              "06. General reactions of monosaccharides",
+              "07. Barfoed's Test"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 173,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "08. Starch",
+              "09. Amino acids and Proteins",
+              "10. Proteins",
+              "11. Structure of Proteins",
+              "12. Tests of Proteins"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1154,
+        "topic_name": "Carbonyl Compound",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 174,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "01. Introduction & Method of preparation",
+              "02. Methods of Preparation only for aldehyde",
+              "03. Methods of Preparation only for ketone",
+              "04. Physical properties",
+              "05. Chemical properties",
+              "06. Nucleophilic addition reaction",
+              "07. Aldol condensation",
+              "08. Cannizaro",
+              "09. Perkin__s reaction",
+              "10. Addition polymerisation reaction of formaldehyde",
+              "11. Condensation polymerisation reaction of formaldehyde",
+              "12. Reaction shown by only aldehyde",
+              "13. Reaction shown by only ketone"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1754,
+        "topic_name": "Carboxylic Acids and their Derivatives",
+        "sub_topic": [
+          {
+            "name": "Introduction",
+            "id": 175,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "01. General introduction & classification",
+              "02. Methods of preparation",
+              "03. Physical properties",
+              "04. Chemical properties",
+              "05. Heating effect of hydroxy carboxylic acid",
+              "06. Heating effect of dicarboxylic acid",
+              "07. Hunsdiecker reaction",
+              "08. Special features of formic acid",
+              "09. Distinction between formic acid & acetic acid"
+            ]
+          },
+          {
+            "name": "Acid Derivatives",
+            "id": 176,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "10. General introduction",
+              "11. Acetyl chloride (mop__S physical properties)",
+              "12. S_(NAE) reaction",
+              "13. Chemical properties",
+              "14. Acetic anhydride (method of preparation)",
+              "15. Physical & chemical properties",
+              "16. Acetamide (mop)",
+              "17. Physical properties & chemical properties",
+              "18. Ethyl acetate & acetic ester (mop)",
+              "19. Physical properties & chemical properties"
+            ]
+          },
+          {
+            "name": "Benzoic Acid",
+            "id": 177,
+            "total_pages": 6,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "20. Benzoic acid (mop)",
+              "21. Physical properties",
+              "22. Reaction due to __COOH groups",
+              "23. Reaction due to Aromatic ring",
+              "24. Test of Benzoic acid"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1156,
+        "topic_name": "Chemical Bonding",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 178,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "1. Chemical bond",
+              "2. Coordinate bond",
+              "3. Covalent bond",
+              "4. Valence bond theory",
+              "5. Hybridization",
+              "6. Hybridization is solid state"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 179,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "7. VSEPR Theory",
+              "8. Drago__s Rule",
+              "9. Resonance",
+              "10. Bent Rule",
+              "11. Back bonding",
+              "12. Silicate",
+              "13. Bridge bond",
+              "14. Hydrolysis"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 180,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "15. MOT",
+              "16. Ionic bond",
+              "17. Fajan__s rule",
+              "18. Dipole moment",
+              "19. Vander Waal__s force",
+              "20. Hydrogen bond",
+              "21. Metallic bond",
+              "22.Points to remember"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1157,
+        "topic_name": "Chemical Equilibrium",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 181,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01. Introduction",
+              "02. Equilibrium and it__s Dynamic Nature",
+              "03. Rate of Reaction",
+              "04. Law of mass action",
+              "05. Equilibrium constants K_C , K_P , K_PC & K_X",
+              "06. Characteristics of equilibrium constant",
+              "07. Applications of equilibrium constant",
+              "08. Degree of dissociation",
+              "09. Multiple equilibrium",
+              "10. Simultaneous equilibrium"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 182,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "11. Equilibrium constant as per kinetics",
+              "12. Calculation of degree of dissociation by vapour",
+              "13. Gibb__s free energy & equilibrium constant",
+              "14. Le Chatelier principle"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1158,
+        "topic_name": "Chemical Kinetics",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 183,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "1. Types of reactions",
+              "2. Rate of Reaction",
+              "3. Law of mass action, Rate law and Rate constant",
+              "4. Order of Reaction",
+              "5.Molecularity",
+              "6.Integrated rate laws for different order of reactions",
+              "7.Methods of Determination of order of reactions",
+              "8.Calculation of first order rate \rconstant using different parameters",
+              "9.ELEMENTARY PARALLEL PATH REACTIONS"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 184,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "10.REVERSIBLE OR OPPOSING REACTIONS",
+              "11.SEQUENTIAL OR CONSECUTIVE REACTIONS ",
+              "12.RATE LAW AND MECHANISM",
+              "13.CATALYST",
+              "14.ARRHENIUS THEORY",
+              "15.COLLISION THEORY"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1160,
+        "topic_name": "Coordination Compound",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 185,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "1. Introduction",
+              "2. Complex formation",
+              "3. Molecular or addition compounds",
+              "4. Various Terms Used in co-ordination compounds",
+              "5. Classification On the basis of Denticity",
+              "6. Special Ligand",
+              "7. Werner__s coordination theory",
+              "8. Effective atomic number__(E.A.N.) rule or sidgwicks rule",
+              "9. I.U.P.A.C. naming of coordination compounds",
+              "10. Isomerism in coordination compound",
+              "11. Structural Isomerism",
+              "12. Stereo isomerism",
+              "13. Bonding in coordination compounds",
+              "14. Stabilityof complex",
+              "15. Organometallic compounds"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1755,
+        "topic_name": "d and f Block",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "d-Block Elements",
+            "id": 186,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01. Transition elements and complexes",
+              "02. General Characteristics",
+              "03. Compounds of Transition elements",
+              "04. Compounds of Silver",
+              "05. Compounds of Zinc",
+              "06. Compounds of Copper",
+              "07. Compounds of Iron"
+            ]
+          },
+          {
+            "name": "f-Block Elements",
+            "id": 187,
+            "total_pages": 4,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "08. (A) Inner Transition Elements",
+              "09. Some properties of Lanthanoids",
+              "10. (B) Lanthanide contraction",
+              "11. (C) Effects of Lanthanide Contraction",
+              "12.(D) Application of lanthanides",
+              "13. (E) Actinides (5f - block elements)"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1361,
+        "topic_name": "Electrochemistry",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 188,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01. Electrochemical cells",
+              "02. Representation of a cell (IUPAC conventions)",
+              "03. Electrode potential",
+              "04. Concept of Electromotive force (EMF) of a Cell",
+              "05. Relationship between DG and electrode potential",
+              "06. Nernst Equation",
+              "07. Thermodynamic treatment of Nernst equation",
+              "08. Different Types of Half-Cells And Their Reduction Potential",
+              "09. Concentration cell",
+              "10. Commercial voltaic cells",
+              "11. Secondary or rechargeable batteries",
+              "12. Fuel Cells and Hybrid Cars",
+              "13. Efficiency of a Fuel Cell",
+              "14. Corrosion cells and reactions",
+              "15. Control of corrosion",
+              "16. Electrolysis",
+              "17. Electrolytic Cell",
+              "18. Electrodes",
+              "19. Qualitative Aspects of electrolysis",
+              "20. Faraday__s laws of electrolysis"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 189,
+            "total_pages": 7,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "21. Conductance",
+              "22. Application of Kohlrausch's law",
+              "23. Electrochemical Series"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1170,
+        "topic_name": "Gaseous state",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 190,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "1. Introduction",
+              "2. Measurable properties of gases",
+              "3. Measurement of pressure",
+              "4. Graphical Analysis",
+              "5. Gas laws",
+              "6. Ideal gas equation",
+              "7. Dalton__s law of partial pressure",
+              "8. Amagat__s law of partial volume",
+              "9. Graham__s law of diffusion",
+              "10. Connected containers",
+              "11.Payload Of Balloon",
+              "12.Kinetic theory of gases"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 191,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "13. Maxwell distribution of molecular speed",
+              "14. Collision theory",
+              "15. Real gas",
+              "16. Vander waal__s equation",
+              "17. Compressibility factor",
+              "18. Critical phenomenon and liquification of gases",
+              "19. Boyle__s temperature"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1174,
+        "topic_name": "Halogen Derivatives and Grignard Reagent",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "(HALOGEN DERIVATIVE) ALKYL HALIDE",
+            "id": 192,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "1.Characteristics",
+              "2.Methods of preparation of alkyl halides",
+              "3.Physical Properties",
+              "4.Chemical Properties",
+              "5.Methods of Preparation of Gem dihalides",
+              "6.Methods of preparation of Vicinal dihalides",
+              "7.Physical properties of dihalides",
+              "8.Chemical Properties of dihalides",
+              "9.Triphalides",
+              "10.Trihaloalkanes : Haloform : CHX_3",
+              "11.Physical Properties",
+              "12.Chemical Properties",
+              "13.Iodoform CHI_3",
+              "14.Tetrahalide _Pyrene__",
+              "15.Freons"
+            ]
+          },
+          {
+            "name": "GRIGNARD REAGENTS",
+            "id": 193,
+            "total_pages": 5,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "21.Preparation of Grignard reagents",
+              "22.Reactions of Grignard Reagents"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1756,
+        "topic_name": "Hydrogen and its compounds",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 194,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01. Hydrogen, Forms of Hydrogen",
+              "02. Methods of Preparation of H_2 ",
+              "03.Properties of H_2",
+              "04.Hydride",
+              "05.Hydrogen peroxide (H_2O_ 2 )",
+              "06.Concentration of H_2 O_2",
+              "07.Water H 2 O",
+              "08.Degree of Hardness",
+              "09.Heavy water"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1177,
+        "topic_name": "Ionic Equilibrium",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 195,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01. Introduction",
+              "02. Arrhenius theory of electrolytic dissociation",
+              "03. Types of Electrolytes",
+              "04. Concepts of acids and bases",
+              "05. Leveling solvents",
+              "06. Common ion effect",
+              "07. Properties of water",
+              "08. PH calculation of different types of solutions",
+              "09. Relative strength of weak acids and bases"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 196,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "10. Salts",
+              "11. Hydrolysis of salts",
+              "12. Buffer solutions",
+              "13. Solubility",
+              "14. Theory of indicators"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1180,
+        "topic_name": "Metallurgy (General principles and process of isolation of metal)",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 197,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01. Introduction",
+              "02. Common steps involved in metallurgy",
+              "03. Extraction of Iron",
+              "04. Extraction of Copper",
+              "05. Extraction of Aluminium",
+              "06. Extraction of Zinc",
+              "07. Extraction of Gold",
+              "08. Extraction of Mercury",
+              "09. Extraction of Tin",
+              "10. Extraction of Lead"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1181,
+        "topic_name": "Mole Concept",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 198,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01.Mole",
+              "02.Methods to calculate mole",
+              "03.Laws of chemical combination",
+              "04.Significance of chemical equation",
+              "05.Limitingreagent",
+              "06.Problems related with mixture",
+              "07.Percentage Yield",
+              "08.Problems related with sequential reaction",
+              "09.Problems related with sequential reaction",
+              "10.Problems related parallel reaction",
+              "11.Principle of atom conservation",
+              "12.Average atomic Mass",
+              "13.Average molecular mass",
+              "14.Empirical and molecular formula",
+              "15.Experimental methods for determination",
+              "16.Eudiometry",
+              "17.Volume expansion and contraction in the edudiometer tube",
+              "18.General reactions for combustion of organic compounds",
+              "19.Analysis of gaseous mixture"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 199,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "20.Volume - Volume analysis",
+              "21.Determination of molecular formula of gaseous hydrocarbon",
+              "22.Determination of molecular formula of gases",
+              "23.Concentration Terms",
+              "24.Methods of expressing concentration of solution",
+              "25.Molarity of ionic compounds",
+              "26.Mixing or dilution of solution",
+              "27.Mixing of acid and base solutions",
+              "28.Problems involving precipitation",
+              "29.Some typical concentration terms",
+              "30.Relationship between different concentration terms"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1759,
+        "topic_name": "Nitrogen Compound",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 200,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01. Definition of amines, Classification of amines",
+              "02. Structure & method of preparation",
+              "03. Gabriel phthalimide reaction",
+              "04. Hafmann bromamide reaction",
+              "05. Schmidt reaction",
+              "06. Curtius rearrangement",
+              "07. Lossen rearrangement",
+              "08. Other methods of preparation of amines",
+              "09. Basicity of amines",
+              "10. Physical properties",
+              "11. Chemical properties",
+              "12. Separation of mixture of amines",
+              "13. Nitrene (Definition & preparation)",
+              "14. Alkyl cyanide &Alkyl iso cyanide",
+              "15. Distinction between ethyl cyanide & ethyl isocyanide"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1758,
+        "topic_name": "Nomenclature of Organic Compounds",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 201,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "1. Common Name",
+              "2. Derived System",
+              "3. Nomenclature of Saturated unbranched hydrocarbon",
+              "4 Nomenclature of Saturated branched hydrocarbon",
+              "5. Nomenclature of Unsaturated unbranched hydrocarbon",
+              "6. Nomenclature of Unsaturated branched hydrocarbon"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 202,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "7. Nomenclature of Functional group compounds",
+              "8. Nomenclature of Polyfunctional group compounds",
+              "9. Nomenclature ofAlicyclic/Cyclic compounds"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 203,
+            "total_pages": 6,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "10. Nomenclature of Bicyclo compounds",
+              "11. Nomenclature of Spiro compounds"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1679,
+        "topic_name": "p-block",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Boron Family",
+            "id": 204,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:03:00.000Z",
+            "concepts": [
+              "01.Physical properties",
+              "02.Chemical properties",
+              "03.Boron & its compounds",
+              "04.Compounds of Aluminium"
+            ]
+          },
+          {
+            "name": "Carbon Family",
+            "id": 205,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "05.Physical properties &Allotropes of carbon",
+              "06.Compound of carbon family",
+              "07.Silicon & its compound",
+              "08.Tin & its compound",
+              "09.Lead & its compound"
+            ]
+          },
+          {
+            "name": "Nitrogen Family",
+            "id": 206,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01. Nitrogen family",
+              "02. Compound of Nitrogen family"
+            ]
+          },
+          {
+            "name": "Oxygen Family",
+            "id": 207,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "03. Oxygen family",
+              "04. Compound of oxygen family",
+              "05. Halogen family",
+              "06. Compound of halogen family",
+              "07. Inert gas family",
+              "08. Family member of noble gases"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1185,
+        "topic_name": "Periodic Table",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 208,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "1. Classification of Elements and Periodicity in properties",
+              "2.Mendeleev__s Periodic Law",
+              "3. Modern Periodic Law",
+              "4. Effective Nuclear Charge",
+              "5. Atomic Size",
+              "6. Ionisation Potential",
+              "7. ElectronAffinity",
+              "8. Electronegativity"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 209,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "9. Density",
+              "10. Diagonal Relationship",
+              "11. Metallic Character",
+              "12. Non-metallic character",
+              "13. Reactivity, Oxidation state, Valency",
+              "14. Acid-base behaviour of oxides and hydroxides",
+              "15. Atomic volume",
+              "16. Graphs of periodic properties",
+              "17. General Trend of different properties in the period and groups",
+              "18. Important facts of remember"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1186,
+        "topic_name": "Polymer",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Polymers",
+            "id": 210,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01.Homopolymers and Copolymers",
+              "02.Classification of Polymers",
+              "03.Classification based upon synthesis",
+              "04.Classification based on intermolecular\rforces (secondary forces)",
+              "05.Difference between thermoplastic and\rthermosetting polymers",
+              "06.Rubber",
+              "07.Synthetic Rubber or Polymerisation of Dienes",
+              "08.Nylon",
+              "09.Polyethylene",
+              "10.Plasticiser",
+              "11.Melamine-Formaldehyde Resin",
+              "12.Bakelite",
+              "13.Polyesters",
+              "14.Biodegradable polymers",
+              "15.Molecular mass of polymer",
+              "16.Common polymers"
+            ]
+          },
+          {
+            "name": "PRACTICAL ORGANIC CHEMISTRY",
+            "id": 211,
+            "total_pages": 2,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "17.Functional group analysis",
+              "18. Differentation test"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1760,
+        "topic_name": "Qualitative Salt Analysis",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 214,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01.Qualitative Analysis",
+              "02.Identification of acidic radicals",
+              "03.Test of Basic Radicals"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1780,
+        "topic_name": "Radioactivity",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 215,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01.Radioactivity",
+              "02.Some basic terms",
+              "03.Rate of radioactive decay",
+              "04.Theory of radioactive disintegration",
+              "05.Group displacement law",
+              "06.Theory regarding nuclear stability",
+              "07.Radioactive disintegration series",
+              "08.Application of radioactivity",
+              "09.Nuclear Reactions",
+              "10.Nuclear reactor",
+              "11.Artificial transmutation",
+              "12.Artificial radioactivity"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1190,
+        "topic_name": "Redox Reactions",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 216,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01. Oxidation and Reduction",
+              "02. Basic terms",
+              "03. Types of redox reactions",
+              "04. Oxidisers and reducers",
+              "05. Oxidation number",
+              "06. Oxidation and reduction in terms of oxidation number",
+              "07. Special cases of oxidation number",
+              "08. Balancing of redox reactions",
+              "09. Equivalent weight"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 217,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "10. Law of equivalence",
+              "11. Electrochemical cell",
+              "12. Electrochemical series",
+              "13. Redox titration",
+              "14. Back titration"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1379,
+        "topic_name": "s-Block",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 218,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01.Alkali metals",
+              "02.Physical properties",
+              "03.Chemical properties",
+              "04.Ore & extraction alkali metals",
+              "05.Compound of sodium",
+              "06.Compound of pottasium",
+              "07.Alkaline earth metal (Physical properties)",
+              "08.Chemical properties"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 219,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "09.Ore & extractionAlkaline earth metals",
+              "10.Compounds of Alkaline earth metals",
+              "11.Calcium"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1192,
+        "topic_name": "Solid State",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 220,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "1. Solids",
+              "2. Classification of Crystals",
+              "3. Study of Crystals",
+              "4. Crystal system",
+              "5. Seven Crystal System",
+              "6. Types of Unit Cells",
+              "7. Calculation of Packing Fractions",
+              "8. Length of Unit Cell and Density of a Cubic Crystal",
+              "9. Radius Ratio Rules",
+              "10. Radius ratio",
+              "11. Imperfections in Solid",
+              "12. Stoichiometric Defects",
+              "13. Properties of Solids"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1757,
+        "topic_name": "Solutions",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 221,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01. Solution",
+              "02. Methods of Expressing the Concentration of a Solution",
+              "03. Solubility of gases",
+              "04. Vapour Pressure of solution and Raoults law",
+              "05. Colligative Properties"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 222,
+            "total_pages": 4,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "06. Abnormal molecular masses",
+              "07. Van__t Hoff Factor"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1149,
+        "topic_name": "Surface Chemistry",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 223,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01.Surface Chemistry",
+              "02.Adsorption Isotherms",
+              "03.Catalysis"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 224,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "04.Colloids",
+              "05.Emulsions",
+              "06.Gels"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1762,
+        "topic_name": "Thermodynamics & Thermochemistry",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 225,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01. Introduction",
+              "02. Enthalpy",
+              "03. Calorimetry measuring heat of reactions"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 226,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01. Introduction",
+              "02. Some basic terms",
+              "03. Property of system",
+              "04. Degree of freedom and equipartition principle",
+              "05. First law of thermodynamics",
+              "06. Enthalpy",
+              "07. Calculation of work done in various process",
+              "08. Comparison of various processes under defined conditions"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 227,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "09. Second law of thermodynamics",
+              "10. Entropy",
+              "11. Third law of thermodynamics",
+              "12. Gibb__s free and spontaneity",
+              "13.Thermodynamics relationship between G and equilibrium constant"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1175,
+        "topic_name": "Hydrocarbon",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Alkane",
+            "id": 228,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "01. Preparation of Alkane",
+              "02. Physical properties of Alkane",
+              "03. Chemical properties",
+              "04. Reaction Chart for Alkane"
+            ]
+          },
+          {
+            "name": "Alkene",
+            "id": 229,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "05. Preparation of Alkene",
+              "06. Physical properties of Alkene",
+              "07. Chemical properties of Alkene",
+              "08. Reaction Chart For Alkene"
+            ]
+          },
+          {
+            "name": "Alkyne",
+            "id": 230,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "09. Preparation of Alkyne",
+              "10. Physical properties ofAlkyne",
+              "11. Chemical properties of Alkyne",
+              "12. Reaction Chart ForAlkyne"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1761,
+        "topic_name": "Isomerism",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 231,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Structural isomerism",
+              "3.Chain isomerism",
+              "4.Position isomerism",
+              "5.Ring chain isomerism",
+              "6.Functional group isomerism",
+              "7.Metamers",
+              "8.Tautomerism",
+              "9.Stereoisomerism",
+              "10.Configuration isomerism",
+              "11.Geometrical isomerism"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 232,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "12.Optical isomerism",
+              "13.Conformational stereoisomerism"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1172,
+        "topic_name": "General Organic Chemistry",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 484,
+            "total_pages": 27,
+            "updated_at": "2018-05-21T10:35:48.000Z",
+            "concepts": [
+              "1.BOND CLEAVAGE",
+              "2.REACTION INTERMEDIATES",
+              "3.APPLICATIONS OFINDUCTIVE EFFECT"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1782,
+        "topic_name": "Environmental Chemistry",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": []
+      }
+    ],
+    "math": [
+      {
+        "videos": "90 Videos",
+        "questions": "400 Questions",
+        "tests": "6 Test Series"
+      },
+      {
+        "topic_id": 1334,
+        "topic_name": "Applications of Derivative",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Tangent & Normal",
+            "id": 233,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "1. General Introduction",
+              "2. Some common Parametric coordinates on a curve",
+              "3. Angle of intersection of two curves",
+              "4. Length of Tangent, Normal, Subtangent and Subnormal",
+              "5. Approximation and differentials",
+              " 6.Interpretation of dy/dx As a rate measuree"
+            ]
+          },
+          {
+            "name": "Monotonicity",
+            "id": 234,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "9.General Introduction",
+              "10.Monotonic function",
+              "11.Non Monotonic",
+              "12.Monotonocity of a functon at a point",
+              "13.Monotonicity in an interval",
+              "14.Increasing and decreasing functions",
+              "15.Non decreasing function",
+              "16.Non Increasing function",
+              "17.Greatest and least value of a function",
+              "18.Establishing inequalities",
+              "19.Rolle's & mean value Theorem",
+              "20.LMVT Theorem (Lagrange's mean value theorem)"
+            ]
+          },
+          {
+            "name": "Maxima - Minima",
+            "id": 235,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "23. General Introduction",
+              "24. Definition Maxima & Minima",
+              "25. Tests for local maximum/minimum, when f(x) is differentiable",
+              "26. When F(x) is not differentiable at x = a",
+              "27. Concept of global maximum/minimum",
+              "28. Global maximum/minimum in [a, b]",
+              "29. Problems Based on Mensuration and Geometry",
+              "30. Useful formulae of Mensuration to remember",
+              "31. General Concept",
+              "32. Significance of the Sign of 2nd order Derivative and Points of Inflection",
+              "33. Different Graphs of the cubic"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1277,
+        "topic_name": "Area Under the Curve",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 236,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "1. Different cases of bounded area",
+              "2. Standard areas to be remembered",
+              "3. Shifting of origin"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 237,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "4. Curve Tracing",
+              "5. Determination of Parameters",
+              "6. Variable area greatest and least value",
+              "7. Average value of a function",
+              "8. Determination of function",
+              "9. Area enclosed in case one curve are expressed in polar form",
+              "10. Area in respect of curve represented parametrically"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 349,
+            "total_pages": 52,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1280,
+        "topic_name": "Binomial Theorem",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 238,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "1. Binomial Expression",
+              "2. Binomial Theorem",
+              "3. Historical Development",
+              "4. Statement of the Theorem",
+              "5. Important Points of Expansion",
+              "6. Important Terms in Binomial\r(A) General Term\r(B) Term Independent of x\r(C) Middle Term"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 239,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "7. Numerically Greatest Term in (x + y)^n",
+              "8. Binomial Coefficients & their Properties",
+              "9. An important Concpt"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1282,
+        "topic_name": "Circle",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 240,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:01.000Z",
+            "concepts": [
+              "1.Basic geometrical concepts of Circle to remember",
+              "2.Definition",
+              "3.General equation of a circle",
+              "4.Diameter form of a circle",
+              "5.Parametric equation of a circle",
+              "6.Intercepts Made on Axes by a circle",
+              "7.Position of Point With Respect to Circle",
+              "8.The position of a line with respect to a circle",
+              "9.Length of chord intercepted by line to circle",
+              "10.Tangent to a circle",
+              "11.Normal to a circle",
+              "12.Length of tangent and power of a point",
+              "13.Director Circle",
+              "14.Equation of Chord",
+              "15.Family of Circles"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 241,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "16.Common Tangents to two circles",
+              "17.Angle of Intersection of two Circles",
+              "18.Common Chord of two Circles",
+              "19.Radical Axis and Redical Centre",
+              "20.Coaxial system of circles"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 350,
+            "total_pages": 37,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1435,
+        "topic_name": "Complex Numbers",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 242,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Classification of complex number",
+              "3.Geometrical representation of a complex number",
+              "4.Integral Powers of i",
+              "5.Algebra of complex Number",
+              "6.Three Important terms with respect to Complex Number",
+              "7.Conjugate of complex Number",
+              "8.Modulus of complex Number",
+              "9.Argument of complex Number",
+              "10.Representation of a complex Number in Different forms",
+              "11.Cartesian Form / Algebraic Form",
+              "12.Trigonometrical Form / Polar Form",
+              "13.Exponential Form",
+              "14.Vectorial Representation of a complex Number",
+              "15.Properties of conjugate, Modulus and argument",
+              "16.Properties of conjugate of complex Numbers",
+              "17.Properties of Argument of complex number"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 243,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "18.Concept of Rotation",
+              "20.Demoivre's Theorem (DMT)",
+              "21.Cube Roots of unity",
+              "22.n, n th root of unity",
+              "23.Geometry of complex number",
+              "24.Geometrical meaning of addition and subtraction",
+              "25.Geometrical Meaning of product and division",
+              "26.Centroid, Incentre, orthocentre & circumcentre of a triangle on a complex plane",
+              "27.Different forms of equation of a straight line",
+              "28.Complex slope of a line",
+              "29.Reflection points for a line (Image of a point in a line)"
+            ]
+          },
+          {
+            "name": "Subtopic Set 1",
+            "id": 244,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "30.Equation of perpendicular bisector",
+              "31.Distance of a given point from a given line",
+              "32.Different forms of equation of a circle",
+              "33.Condition of concyclic of four points",
+              "34.Inverse Point w.r.t. a circle",
+              "35.General locii on complex plane",
+              "36.Logarithm of complex quantity"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 351,
+            "total_pages": 44,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1286,
+        "topic_name": "Compound Angles",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 245,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.What is trigonometry?",
+              "2.Basic definition of six trigonometric functions",
+              "3.Basic Trigonometric Identities",
+              "4.Measurement of angle and sign convention",
+              "5.Reduction Formulae",
+              "Graphs of 6 trigonometric functions",
+              "7.Trigonometry of compound Angles",
+              "8.To deduce the value of tan (A + B) and cot (A + B)",
+              "9.Important identities",
+              "10.Transformation Formulae: Transform the product into sum or difference",
+              "11.Transforming sum or differences into products",
+              "12.Values of trigonometric ratio of standard angles",
+              "13.Trigonometric Ratios of Multiple and submultiple angles",
+              "14.Continued product of consine Series",
+              "15.To find the trigonometrical funcitons of an angle of 18",
+              "16.Values of standard angles"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 246,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "17.Application of trigonometry in maximising and minimising i.e. (optimisation)",
+              "18.Conditional identities and inequalities",
+              "19.Summation of trigonometric series",
+              "20.Elimination"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1287,
+        "topic_name": "Conic Section",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "CONIC SECTION",
+            "id": 247,
+            "total_pages": 3,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.Section of right circular cone by different planes",
+              "2.Distinguishing various conics",
+              "3.Definition of various terms related to a conic"
+            ]
+          },
+          {
+            "name": "Parabola",
+            "id": 248,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "4.Standard Equation of a parabola",
+              "5.Terms related to Parabola",
+              "6.Reduction to generalized Equation of parabola",
+              "7.Equation of parabola with respect to two perpendicular lines",
+              "8.Chord",
+              "9.Position of a point with respect to a parabola y^2 = 4ax",
+              "10.Interaction between the Line and parabola",
+              "11.Equation of tangent"
+            ]
+          },
+          {
+            "name": "Parabola",
+            "id": 249,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "12.Equation of normals",
+              "13.Co-normal points",
+              "14.Chord of the parabola y^2 =4ax whose middle point is given",
+              "15.Pair of tangents",
+              "16.Chord of contact of point with respect to a parabola",
+              "17.Polar & Pole",
+              "18.Diameter of a parabola",
+              "19.Length of tangent, subtangnet, normal and sub-normal",
+              "20.Properties of Parabola"
+            ]
+          },
+          {
+            "name": "Ellipse",
+            "id": 250,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "21.Definition",
+              "22.Standard equation of an ellipse",
+              "23.Facts about an ellipse",
+              "24.Basic Terms Related To an Ellipse",
+              "25.Auxiliary Circle and Eccentric Angle",
+              "26.Ellipse at a Glance",
+              "28.Two standard forms of ellipse",
+              "29.Comparison chart between standard ellipse",
+              "30.Equation of chord of an Ellipse"
+            ]
+          },
+          {
+            "name": "Ellipse",
+            "id": 251,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "31.Position of A Point w.r.t. An Ellipse",
+              "32.Interaction of a line and an ellipse",
+              "33.Tangents",
+              "34.Normals",
+              "35.Director Circle",
+              "36.Pair of tangents",
+              "37.Pair of tangents",
+              "38.Chord with a given middle point",
+              "39.Diameter",
+              "40.Properties of the ellipse",
+              "41.Equation of an ellipse referred to two perpendicular lines"
+            ]
+          },
+          {
+            "name": "Hyperbola",
+            "id": 252,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "42.Definiton of hyperbola",
+              "43.Standard equation of a hyperbola",
+              "44.Facts about the hyperbola",
+              "45.Terms related to hyperbola",
+              "46.Eccentricity",
+              "47.Parametric equations of the hyperbola",
+              "48.Focal Distance of a point on Hyperbola",
+              "49.Conjugate Hyperbola",
+              "50.Rectangular hyperbola",
+              "51.Position of a point with respect to hyperbola",
+              "52.Interaction of a line and a hyperbola"
+            ]
+          },
+          {
+            "name": "Hyperbola",
+            "id": 253,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "53.Equations of tangent",
+              "54.Tangents drawn from outside point",
+              "55.Director circle",
+              "56.Equation of normals",
+              "57.Properties",
+              "58.Pair of tangents",
+              "59.Chord of contact",
+              "60.Equation of the chord bisected at a given point",
+              "61.Asymptotes of hyerpbola",
+              "62.Properties of Asymptotes",
+              "63.The rectangular hyperbola xy = c^2",
+              "64.Properties of rectangular hyperbola xy = c^2"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 352,
+            "total_pages": 76,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1288,
+        "topic_name": "Definite integration",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 254,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1. Definition",
+              "2. Properties of definite Integral",
+              "3. Derivatives of Antiderivatives (Leibnitz Rule)",
+              "4. Definite Integral as A Limit of Sum",
+              "5. Estimation of Definite integral and general inequalities in integration",
+              "6. Walli's theorm",
+              "7. Reduction method",
+              "8. Some integrals which cannot be found in terms of known elementry functions"
+            ]
+          },
+          {
+            "name": "Solutions",
+            "id": 348,
+            "total_pages": 45,
+            "updated_at": "2017-03-14T10:20:36.000Z",
+            "concepts": [
+              "1. Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1290,
+        "topic_name": "Differential Equation",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 255,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Formation of Differential Equations",
+              "3.Length of tangent, normal sub-tangent, sub-normal",
+              "4.Solution of a differential equation",
+              "5.Variables Separable",
+              "6.Differential Equation Reducible to the Separable Variable Type",
+              "7.Differential Equation of the form",
+              "8.Polar Coordinates",
+              "9.Homogeneous equations",
+              "10.Equations Reducible to the Homogenous form",
+              "11.Linear Differential Equations"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 256,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "12.Equations Reducible to Linear form ( Bernoullis Equation)",
+              "13.Physical application of differential equation",
+              "14.Mixture Problems",
+              "15.Statistical Applications of Differential Equation",
+              "16.Geometrical Applications of Differential Equation",
+              "17.Trajectories"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1291,
+        "topic_name": "Differentiation",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 257,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.Introduction",
+              "2.Standard derivatives",
+              "3.Theorem on derivatives",
+              "4.Product rule",
+              "5.Quotient rule",
+              "6.Differentiation of composite function (chain rule)",
+              "7.Logarithmic differentiation",
+              "8.Implicit functions",
+              "9.Derivative of implicit function",
+              "10.A direct formula for implicit functions"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 258,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "11.Derivative of inverse function",
+              "12.Differentiation of inverse trigonometric functions",
+              "13.Parametric differentiation",
+              "14.Differentiation of one function w.r.t. Other function"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 259,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "15.Successive differentiation",
+              "16.Deduction of new identities by differentiating a given identity",
+              "17.Derivative of functions expressed in the determinant form",
+              "18.L'hospital's rule (0^0 / 0 )"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1169,
+        "topic_name": "Sets, Relations, and Functions",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 260,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.Ordered Pairs",
+              "2.Relation",
+              "3.Types of Relation",
+              "4.Function",
+              "5.Range",
+              "6.Equal or identical function",
+              "7.Classification of functions"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 261,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "8.Functional equations",
+              "9.Composite function",
+              "10.Properties of Composite Functions",
+              "11.Odd & Even Functions",
+              "12.Inverse of a Function",
+              "13.Properties of inverse of a Function",
+              "14.Periodic function",
+              "15.Some graphical transformation"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1420,
+        "topic_name": "Indefinite Integration",
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 262,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "l. Differentials",
+              "2. Integration as anti-derivative",
+              "3. Notes on indefinite integration",
+              "4. Problems based on Indefinite integral as antiderivative",
+              "5. Techniques of intergration",
+              "6. Substitution method",
+              "7. Integration by parts",
+              "8. Two Classic Integrands",
+              "9. Partial fraction",
+              "10. Decomposition of Fractions Involving Even Powers of x only",
+              "11. Substitution after manipulation (Kuturputur)",
+              "12. Integrals of Trigonometric functions",
+              "13. Integration of irrational algebraic function",
+              "14. Standard Results"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1176,
+        "topic_name": "Inverse trigonometric Functions",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 263,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.General introduction",
+              "2.Principal values and domains of Inverse Circular Functions",
+              "3.Graphs of all 6 inverse circular functions"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 264,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "4.Properties of Inverse Trigonometric Function\r(i)Property-1\r(ii)Property-2\r(iii)Property-3\r(iv)Property-4\r(v)Property-5\r(vi)Property-6\r(vii) Property-7\r",
+              "5.Simplification & Transformation of Inverse functions by elementry\rsubstitution and their graphs",
+              "6.Identities involving invrse trigonometric functions",
+              "7.Equations involving inverse trigonometric functions",
+              "8.Simultaneous equations and inequations involving I.T.F.",
+              "9.Summation of series"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1764,
+        "topic_name": "Limit and Continuity, and Differentiability of functions",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Limits of function",
+            "id": 265,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:03:02.000Z",
+            "concepts": [
+              "1.Concept of limits",
+              "2.Existence of limit",
+              "3.One sided limit",
+              "4.Difference between limit of function at x = a and f (a)",
+              "5.The algebra of limits",
+              "6.Points to remember",
+              "7.Indeterminate forms",
+              "8.Evaluation of algebraic limits by different methods",
+              "9.Sandwich theorem or squeeze play theorem for evalutating limits",
+              "10.Evaluation of trigonometric limits"
+            ]
+          },
+          {
+            "name": "Limits of function",
+            "id": 266,
+            "total_pages": 18,
+            "concepts": [
+              "12.Limits of the form Base tends to 1, Power tends to infinity",
+              "13.L' hopital's rule for evaluating limits",
+              "14.Limits of functions having built in limit with them",
+              "15.One sided limits",
+              "16.Expansion of function"
+            ]
+          },
+          {
+            "name": "Contininuity of function",
+            "id": 267,
+            "total_pages": 24,
+            "concepts": [
+              "17.General introduction",
+              "18.Definition of continuity of a function",
+              "19.Continuity in an interval",
+              "20.Reasons of discontinuity",
+              "21.Types of discontinuities",
+              "22.Removable discontinuity",
+              "23.Non-removable discontinuity",
+              "24.Continuity of functions defined by some functional rule",
+              "25.Theorems on continuity",
+              "26.Following important notes should be remembered",
+              "27.Properties of continuous function",
+              "28.Continuity of special types of functions",
+              "29.Continuity of composite functions"
+            ]
+          },
+          {
+            "name": "Differentiability",
+            "id": 268,
+            "total_pages": 17,
+            "concepts": [
+              "29.Differentiability of function",
+              "30.Differentiability / derivability",
+              "31.Determination of function which are differentiable and\rsatisfying the given functional rule",
+              "32.Theorems on differentiability",
+              "33.Differentiability by differentiation"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1750,
+        "topic_name": "Logarithm",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 269,
+            "total_pages": 16,
+            "concepts": [
+              "1.Basic Mathematics",
+              "2.Historical Development of Number System",
+              "3.Logarithm",
+              "4.Principal Properties of Logarithm",
+              "5.Basic Changing theorem",
+              "6.Logarithmic equations",
+              "7.Common & Natural Logarithm",
+              "8.Characteristic Mantissa",
+              "9.Absolute value Function"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1763,
+        "topic_name": "Matrices and Determinants",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "DETERMINANTS",
+            "id": 270,
+            "total_pages": 26,
+            "concepts": [
+              "1. Historical development",
+              "2. Cofactor and minors of an element",
+              "3 Minors",
+              "4. Cofactor",
+              "5. Properties of determinants",
+              "6. Some important determinants to remember",
+              "7. Multiplication of two determinants",
+              "8. System of linear equations",
+              "9. Non-homogeneous equations in two unknowns",
+              "10. Homogenous linear equations in two unknowns",
+              "11. Non-homogeneous linear equations in three unknowns",
+              "12. Homogeneous linear equations"
+            ]
+          },
+          {
+            "name": "MATRICES",
+            "id": 271,
+            "total_pages": 28,
+            "concepts": [
+              "13. Introduction",
+              "14. Special type of matrices",
+              "15. Algebra of matrices",
+              "16. Multiplication of a matrix by a scalar",
+              "17. Multiplication of matrices",
+              "18. Properties of matrix multiplication",
+              "19. Matrix multiplication is associative",
+              "20. Distributivity",
+              "21. Positive integral powers of a square matrix",
+              "22. Matrix polynomial",
+              "23. Orthogonal matrices (not in ncert)",
+              "24. Adjoint of a square matrix",
+              "25. Properties of adjoint",
+              "26. Inverse of a matrix (reciprocal matrix)",
+              "27. Properties of inverse",
+              "28. System of equation & criterian for consistency",
+              "29. Equaivalent matrices",
+              "30. Method of finding the inverse of a matrix by elementary transformation",
+              "31. Algorithm for finding the inverse of a non singular matrix by elementary row transformations"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1313,
+        "topic_name": "Permutation and Combination",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 272,
+            "total_pages": 24,
+            "concepts": [
+              "1. Fundamental Principal of Counting",
+              "2. Notation of factorial",
+              "3. Divisibility of Numbers",
+              "4. Permutation & Combination",
+              "5. Theorm related to Application of Permutation and Combination",
+              "6. Formation of Groups"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 273,
+            "total_pages": 28,
+            "concepts": [
+              "7. Permutation of Alike objects",
+              "8. Permutation of the objects taken some at a time",
+              "9. Circular Permutation",
+              "10. Total number of Combinations or Selection or Collection",
+              "11. Promblems based on Number Theory",
+              "12. Summation of Numbers (3 different ways)",
+              "13. Destribution of alike objects",
+              "14. Derangement",
+              "15. Some Important results about points"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1317,
+        "topic_name": "Quadratic Equations",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 274,
+            "total_pages": 24,
+            "concepts": [
+              "1.Introduction",
+              "2.Solution of quadratic equation",
+              "3.Relation between roots and co-efficient",
+              "4.Formation of a quadratic equation when roots are given",
+              "5.Nature of roots",
+              "6.Roots under particular cases",
+              "7.Quadratic expressions and its graph",
+              "8.Solving quadratic and rational inequalities (Wavy curve method)",
+              "9.Symmetric Expressions",
+              "10.Formation of quadratic equation whose roots are symmetric expressions of alpha & beta.",
+              "11.Condition of common roots"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 275,
+            "total_pages": 21,
+            "concepts": [
+              "12.Maximum and minimum values of quadratic and rational functions",
+              "13.Resolving a general quadratic expression in x and y into two linear factor",
+              "14.Location of roots.",
+              "15.Theory of Equations",
+              "16.Log inequalities"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1305,
+        "topic_name": "Mathematical Reasoning and Induction",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 276,
+            "total_pages": 25,
+            "updated_at": "2017-03-15T07:06:33.000Z",
+            "concepts": [
+              "01.Relation",
+              "02.Mathematical Induction",
+              "03.Height and Distance",
+              "04.Statistics"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 277,
+            "total_pages": 8,
+            "updated_at": "2017-03-15T07:34:12.000Z",
+            "concepts": [
+              "05.Mathematical Reasoning"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 354,
+            "total_pages": 39,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1321,
+        "topic_name": "Sequence and Series",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 278,
+            "total_pages": 25,
+            "concepts": [
+              "l. Introduction",
+              "2. Arithmetic Progression (A.P.)",
+              "3. Geometric Progression (G.P.)"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 279,
+            "total_pages": 18,
+            "concepts": [
+              "4. Arithmetic geometric progression (A.G.P.)",
+              "5. Miscellaneous sequences",
+              "6. Harmonic progression (H.P.)"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1374,
+        "topic_name": "Solution of Triangle",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 280,
+            "total_pages": 23,
+            "concepts": [
+              "1.Introduction",
+              "2.Sine Rule",
+              "3.Cosine Rule",
+              "4.Projection Formula",
+              "5.Tangent Rule",
+              "6.Area of Triangle",
+              "7.Half Angle Formulae",
+              "8.m-n Theorem",
+              "9.Centroid & Medians",
+              "10.Bisector of the angles"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 281,
+            "total_pages": 20,
+            "concepts": [
+              "11.Circumcircle",
+              "12.Incircle",
+              "13.Escribed Circle",
+              "14.Orthocentre and Pedal Triangle",
+              "15.Regular Polygon",
+              "16.Solution of Triangle (ambiguous case)"
+            ]
+          },
+          {
+            "name": "ACC Solutions",
+            "id": 353,
+            "total_pages": 48,
+            "updated_at": "2017-03-15T07:12:51.000Z",
+            "concepts": [
+              "1. ACC Exercise Solutions"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1325,
+        "topic_name": "Straight Line",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 282,
+            "total_pages": 24,
+            "concepts": [
+              "1.Introduction",
+              "2.Family of quadrilateral (euclidian figures)",
+              "3.Five important points with respect to a triangle",
+              "4.Cartesian Coordinate system",
+              "5.Distance between two points",
+              "6.Section Formula",
+              "7.Harmonic conjugates",
+              "8.Coordinates of special points with respect to a triangle",
+              "9.Determinant"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 283,
+            "concepts": [
+              "10.Area of a triangle",
+              "11.Locus and Equation to a Locus",
+              "12.Straight Line",
+              "13.Different forms of a line",
+              "14.Angle between two straight lines when their equations are given"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 284,
+            "total_pages": 23,
+            "concepts": [
+              "15.Length of the perpendicular",
+              "16.Parametric form of a line",
+              "17.Position of a point with respect to a line",
+              "18.Concurrency of three lines",
+              "19.Equation of straight Line in Determinant form",
+              "20.Family of straight lines",
+              "21.Shifting of Origin"
+            ]
+          },
+          {
+            "name": "Subtopic Set 4",
+            "id": 285,
+            "total_pages": 12,
+            "concepts": [
+              "22.Rotation of Axes",
+              "23.Angle Bisector",
+              "24.Pair of Straight lines",
+              "25.Homogenisation"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1328,
+        "topic_name": "Trigonometric Equation",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 286,
+            "concepts": [
+              "1.Introduction",
+              "2.Types of Trigonometric Equation",
+              "3.Type-I",
+              "4.Type-II",
+              "5.Type-III",
+              "6.Type-IV",
+              "7.Type-V",
+              "8.Type-VII",
+              "9.Type-VII",
+              "10.Trigonometric Enequalities and System Inequality"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1651,
+        "topic_name": "Vector and 3D",
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "VECTOR",
+            "id": 287,
+            "total_pages": 26,
+            "concepts": [
+              "l. Vectors and scalars",
+              "2. Kinds of vectors",
+              "3. Addition of vectors",
+              "4. Position vectors",
+              "5. Relation between two parallel vectors",
+              "6. Vector equation of a straight line",
+              "7. Collinearity of three points",
+              "8. Product of vectors",
+              "9. Scalar or dot product of two vectors",
+              "10. Angle between two vectors in terms of components",
+              "11.Linear combination of vectors",
+              "12.Vector or cross product of two vectors",
+              "13. Geometrical interpretation of vector product",
+              "14.Interpretation of vector product as vector area",
+              "15.Shortest distance between 2 skew lines"
+            ]
+          },
+          {
+            "name": "VECTOR",
+            "id": 288,
+            "total_pages": 15,
+            "concepts": [
+              "16.Product of three or more vectors",
+              "17.Volume of tetrahedron",
+              "18.Vector triple product",
+              "19.Scalar product of four vector",
+              "20.Vector product of four vector",
+              "21.Condition for coplanarity of four points",
+              "22.Real definition of linearly independence",
+              "23.Reciprocal system of vectors",
+              "24.Isolating an known vectors"
+            ]
+          },
+          {
+            "name": "3-DIMENSION",
+            "id": 289,
+            "total_pages": 26,
+            "concepts": [
+              "25. Coordinates of a point in space",
+              "26 Direction cosines",
+              "27 Direction ratios",
+              "28. Planes",
+              "29. Different forms of the equations of planes",
+              "30. Perpendicular distance of a point from a plane",
+              "31. Equation of planes bisecting the angles between two given planes",
+              "32. Family of planes",
+              "33. Angle between two planes",
+              "34. Straight lines",
+              "35. Procedure to convert unsymmetrical form of straight line to symmetrical form",
+              "36. Line of greatest slope in a plane"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1324,
+        "topic_name": "Probability",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "SubTopic-1",
+            "id": 398,
+            "total_pages": 23,
+            "updated_at": "2017-03-24T04:11:27.000Z",
+            "concepts": [
+              "1. Random Experiments",
+              "2. Out comes and sample space",
+              "3. Event",
+              "4. Algebra of events",
+              "5. Three most important events",
+              "6. Classical (A priori) Definition of Probability",
+              "7. Odds in favour and Odds against of an event",
+              "8. Dependent and Independent Events",
+              "9. Addition theorem on probability",
+              "10. Conditional Probability",
+              "11. Multiplication theorem on Probability"
+            ]
+          },
+          {
+            "name": "SubTopic-1",
+            "id": 399,
+            "total_pages": 20,
+            "updated_at": "2017-03-24T04:11:27.000Z",
+            "concepts": [
+              "12. Three Events associated with an experimental Performance",
+              "13. Binomial Probability",
+              "14. Total Probability theorem",
+              "15. Baye's Theorem",
+              "16. Probabilities through Statistical (stochastic) tree diagram",
+              "17. Mathematical Expectation (Practical use of probability in day to day life)",
+              "18. Geometrical Probability (Continuous sample Space)"
+            ]
+          },
+          {
+            "name": "SubTopic-1",
+            "id": 400,
+            "total_pages": 10,
+            "updated_at": "2017-03-24T04:11:27.000Z",
+            "concepts": [
+              "19. Coincidence Testimony",
+              "20. Random Variable",
+              "21. Mean and Variance of a Probability Distribution",
+              "22. Binomial Probability Distribution",
+              "23. Variance of BPD of a random variable",
+              "24. Standard deviation of BPD of a random variable"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 2111,
+        "topic_name": "Linear Inequalities",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": []
+      },
+      {
+        "topic_id": 2112,
+        "topic_name": "Three dimesional geometry",
+        "locked": true,
+        "has_theory": false,
+        "sub_topic": []
+      }
+    ]
+  }
+}

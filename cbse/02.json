@@ -2,6 +2,11 @@
   "study_materials": {
     "physics": [
       {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+      },
+      {
         "topic_id": 1898,
         "topic_name": "Alternating Current",
         "assigned": false,
