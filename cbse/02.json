@@ -926,6 +926,11 @@
     ],
     "chemistry": [
       {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+      },
+      {
         "topic_id": 1833,
         "topic_name": "Alcohol & Ether",
         "assigned": false,
@@ -1901,6 +1906,11 @@
       }
     ],
     "biology": [
+      {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+      },
       {
         "topic_id": 1794,
         "topic_name": "Anatomy of flowering plants",

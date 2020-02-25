@@ -1,0 +1,1058 @@
+ "study_materials": {
+      "physics": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1962,
+          "topic_name": "Electricity",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Electricity",
+              "id": 458,
+              "total_pages": 28,
+              "updated_at": "2018-04-04T12:17:12.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Charge",
+                "3.Electric field",
+                "4.Electric potential and potential difference",
+                "5.Flow of charge (electric current)",
+                "6.Electric resistance",
+                "7.Ohm’s law",
+                "8.Combination of resistances",
+                "9.Kirchhoff’s law",
+                "10.Heating effect of electric current",
+                "11.Joule’s law",
+                "12.Practical applications of heating effect of electric current",
+                "13.Electric power",
+                "14.Electric energy."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1963,
+          "topic_name": "Magnetic Effects of Electric Current",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Magnetic Effects of Electric Current Set I",
+              "id": 459,
+              "total_pages": 18,
+              "updated_at": "2018-04-04T12:18:41.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Magnet",
+                "3.Magnetic field and magnetic field lines",
+                "4.An electric current produces a magnetic field",
+                "5.Magnetic field of a current carrying conductor",
+                "6.Magnetic field due to a current through a straight conductor",
+                "7.Magnetic field due to a current through a circularwire or loop",
+                "8.Factors on which the magnetic field produced at the centre of a current carrying circularwire depends",
+                "9.Magnetic field due to a current in a solenoid"
+              ]
+            },
+            {
+              "name": "Magnetic Effects of Electric Current Set II",
+              "id": 460,
+              "total_pages": 20,
+              "updated_at": "2018-04-04T12:20:00.000Z",
+              "concepts": [
+                "10.Electromagnets",
+                "11.Force onacurrent carrying conductor placedinamagnetic field",
+                "12.Electricmotor",
+                "13.Electromagnetic induction",
+                "14.Definition of electromagnetic induction",
+                "15.Electric generator",
+                "16.Domestic electric circuits",
+                "17.Electric fuse",
+                "18.Short-circuiting and overloading"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1964,
+          "topic_name": "Sources of Energy",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Sources of Energy Set I",
+              "id": 461,
+              "total_pages": 18,
+              "updated_at": "2018-04-04T12:20:43.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Different sources of energy",
+                "3.What is a good source of energy ?",
+                "4.Conventional (non-renewable) sources of energy",
+                "5.Petroleum",
+                "6.Thermal power plant",
+                "7.Hydro power or hydro electric power plant",
+                "8.Improvements in the technology for using conventional sources of energy",
+                "9.Wind energy"
+              ]
+            },
+            {
+              "name": "Sources of Energy Set II",
+              "id": 462,
+              "total_pages": 19,
+              "updated_at": "2018-04-04T12:21:14.000Z",
+              "concepts": [
+                "10.Alternative or non-conventional sources of energy",
+                "11.Solar energy",
+                "12.Energy from the sea or ocean",
+                "13.Geo-thermal energy (geo-thermalmeans earth -heat)",
+                "14.Nuclear energy",
+                "15.Nuclear fission",
+                "16.Nuclear fusion",
+                "17.Environmental consequences (impact of increasing demand of energy on environment)",
+                "18.Non-renewable sources of energy"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1965,
+          "topic_name": "Light Reflection and Refraction",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Light Reflection and Refraction Set I",
+              "id": 463,
+              "total_pages": 15,
+              "updated_at": "2018-04-04T12:22:08.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Properties of light",
+                "3.Reflection of light",
+                "4.Types of reflection",
+                "5.Image",
+                "6.Reflection from plane surface",
+                "7.Reflection from spherical surface",
+                "8.Important terms in respect of spherical mirrors"
+              ]
+            },
+            {
+              "name": "Light Reflection and Refraction Set II",
+              "id": 464,
+              "total_pages": 16,
+              "updated_at": "2018-04-04T12:22:37.000Z",
+              "concepts": [
+                "9.Mirror formula",
+                "10.Magnification (or linearmagnification)"
+              ]
+            },
+            {
+              "name": "Light Reflection and Refraction Set III",
+              "id": 465,
+              "total_pages": 20,
+              "updated_at": "2018-04-04T12:23:11.000Z",
+              "concepts": [
+                "11.Refraction",
+                "12.Refraction by spherical lenses"
+              ]
+            },
+            {
+              "name": "Light Reflection and Refraction Set IV",
+              "id": 466,
+              "total_pages": 21,
+              "updated_at": "2018-04-04T12:23:45.000Z",
+              "concepts": [
+                "13.Lenses in contact",
+                "14.Application of lenses"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1966,
+          "topic_name": "Human Eye and The Colourful World",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Human Eye and The Colorful World Set I",
+              "id": 467,
+              "total_pages": 18,
+              "updated_at": "2018-04-04T12:25:35.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Human eye",
+                "3.Defects of vision and their correction",
+                "4.Angular magnification"
+              ]
+            },
+            {
+              "name": "Human Eye and The Colorful World Set II",
+              "id": 468,
+              "total_pages": 23,
+              "updated_at": "2018-04-04T12:26:21.000Z",
+              "concepts": [
+                "5.Refraction of light through a prism",
+                "6.Total internal reflection",
+                "7.Atmospheric refraction",
+                "8.Scattering of light"
+              ]
+            }
+          ]
+        }
+      ],
+      "chemistry": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1954,
+          "topic_name": "Chemical Reaction & Equation",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Chemical Reaction & Equation Set I",
+              "id": 449,
+              "total_pages": 19,
+              "updated_at": "2018-04-03T09:00:13.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Chemical reaction",
+                "3.Chemical equation",
+                "4.Unbalanced and balanced chemical equations",
+                "5.Different types of chemical reactions"
+              ]
+            },
+            {
+              "name": "Chemical Reaction & Equation Set II",
+              "id": 450,
+              "total_pages": 14,
+              "updated_at": "2018-04-03T09:01:08.000Z",
+              "concepts": [
+                "6.Modern concept of oxidation and reduction",
+                "7.Valency",
+                "8.Oxidation state and oxidation number",
+                "9.Balancing of redox reaction",
+                "10.Effects of oxidation reactions in everyday life",
+                "11.Corrosion & rancidity"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1955,
+          "topic_name": "Acid Bases & Salts",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Acid Bases & Salts Set I",
+              "id": 451,
+              "total_pages": 30,
+              "updated_at": "2018-04-03T09:02:24.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Theories of acids and bases",
+                "3.Basics of acids",
+                "4.Bases and salts",
+                "5.Understanding the chemical properties of acids and bases",
+                "6.Dissociation of acids & bases",
+                "7.What do all acids and all bases have in common?",
+                "8.What happens to an acid or a base in a water solution?",
+                "9.What happens in the dilution of acid and base with water?",
+                "10.The ph scale"
+              ]
+            },
+            {
+              "name": "Acid Bases & Salts Set II",
+              "id": 452,
+              "total_pages": 15,
+              "updated_at": "2018-04-03T09:02:54.000Z",
+              "concepts": [
+                "11.More about salts",
+                "12.Are the crystals of salts really dry?"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1956,
+          "topic_name": "Metals & Non Metals",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Metals & Non Metals Set I",
+              "id": 453,
+              "total_pages": 20,
+              "updated_at": "2018-04-03T09:03:49.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Metals",
+                "3.Occurence of metals in nature",
+                "4.Minerals and ores",
+                "5.Metallurgy",
+                "6.Metallurgy in detail",
+                "7.Concentration of ore"
+              ]
+            },
+            {
+              "name": "Metals & Non Metals Set II",
+              "id": 454,
+              "total_pages": 23,
+              "updated_at": "2018-04-03T09:04:15.000Z",
+              "concepts": [
+                "8.Chemical reduction",
+                "9.Refining (or) purification of metals",
+                "10.Alloys",
+                "11.Orrosion of metals",
+                "12.Rusting",
+                "13.Uses of metals",
+                "14.Use of pure metals",
+                "15.Some important metals compounds used in daily life",
+                "16.Non-metals",
+                "17.Sulphur",
+                "18.Phosphorus",
+                "19.Some important compounds of non-metals"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1960,
+          "topic_name": "Carbon & Its Compounds",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Carbon & Its Compounds Set I",
+              "id": 455,
+              "total_pages": 23,
+              "updated_at": "2018-04-03T09:04:55.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Bonding in carbon compound",
+                "3.Allotropy",
+                "4.Versatile nature of carbon",
+                "5.Organic compounds",
+                "6.Homologous series",
+                "7.Nomenclature of organic compound"
+              ]
+            },
+            {
+              "name": "Carbon & Its Compounds Set II",
+              "id": 456,
+              "total_pages": 23,
+              "updated_at": "2018-04-03T09:05:38.000Z",
+              "concepts": [
+                "8.Isomerism",
+                "9.Type of organic reactions",
+                "10.Some important carbon compounds-ethanol and ethanoic acid",
+                "11.Soaps and detergents",
+                "12.Some important organic compounds"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1961,
+          "topic_name": "Periodic Classification",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Periodic Classification",
+              "id": 457,
+              "total_pages": 24,
+              "updated_at": "2018-04-03T09:06:28.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Why do we need to classify elements ?",
+                "3.Making order out of chaos-early attempt at the classification of elements",
+                "4.Dobereiners triads",
+                "5.Limitations",
+                "6.Newland law of octaves",
+                "7.Lother meyer’s curve",
+                "8.Mendeleev’s periodic table (1869)",
+                "9.Achievements of mendeleev’s periodic table",
+                "10.Limitations of mendeleev’s classification",
+                "11.Making order out of choas-the modern periodic table",
+                "12.Modern periodic table",
+                "13.What is periodicity",
+                "14.Cause of periodicity",
+                "15.Advantages of long form over mendeleev’s peridic table",
+                "16.Division of the periodic table in s",
+                "17.P",
+                "18.D and f blocks",
+                "19.Periodic properties"
+              ]
+            }
+          ]
+        }
+      ],
+      "math": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1967,
+          "topic_name": "Real Numbers",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Real Numbers",
+              "id": 469,
+              "total_pages": 24,
+              "updated_at": "2018-04-04T12:27:00.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Rational numbers",
+                "3.Irrational numbers",
+                "4.Real numbers",
+                "5.Test of divisibility",
+                "6.Radicals",
+                "7.Rationalisation of denominator",
+                "8.To find the number of divisors of a composite number",
+                "9.Absolute value or modulus of a rational number",
+                "10.Hcf and lcm of fractions",
+                "11.To find unit digit in exponential expression",
+                "12.Divisibility",
+                "13.Euclid’s division lemma",
+                "14.The fundamental theorem of arithmetic",
+                "15.Determining the nature of the decimal expansion of rational numbers"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1968,
+          "topic_name": "Polynomials",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Polynomials",
+              "id": 470,
+              "total_pages": 16,
+              "updated_at": "2018-04-04T12:27:59.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Polynomials",
+                "3.Hcf of given polynomials",
+                "4.Lcmof given polynomials",
+                "5.Rational expressions",
+                "6.Basic operations on polynomials",
+                "7.Concept of square roots"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1969,
+          "topic_name": "Pair of Linear Equations in two Variables",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Pair of Linear Equation in two Variables",
+              "id": 471,
+              "total_pages": 17,
+              "updated_at": "2018-04-04T12:28:42.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Linear equation in two variables",
+                "3.Algebraic methods of solving a pair of linear equations",
+                "4.Definition of a straight line"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1970,
+          "topic_name": "Trigonometry",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Trigonometry",
+              "id": 472,
+              "total_pages": 17,
+              "updated_at": "2018-04-04T12:29:30.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Measurement of angles",
+                "3.Standard position of the angle",
+                "4.Coterminal angles",
+                "5.Systems of measurement of angle",
+                "6.Relation between degrees and radians",
+                "7.Relation betweenthree systems ofmeasurement of an angle",
+                "8.Trigonometric ratios",
+                "9.Trigonometric ratiosof some specificangles 0°",
+                "10.30°",
+                "11.45°",
+                "12.60° & 90°",
+                "13.Trigonometric ratios of complementary angles",
+                "14.Trigonometric identities",
+                "15.Relation between an arc",
+                "16.Radius and angle subtended by the arc",
+                "17.Trigonometric ratios of compounds angles",
+                "18.Signs of trigonometic ratios"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1971,
+          "topic_name": "Similar Triangles",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Similar Triangles",
+              "id": 473,
+              "total_pages": 22,
+              "updated_at": "2018-04-04T12:30:52.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Similar polygons",
+                "3.Similarity of triangles",
+                "4.Basic proportionality theorem (thales theorem)",
+                "5.Converse of basic proportionality theorem",
+                "6.Angle-angle-angle similarity (aaa-similarity) (theorem)",
+                "7.Side-side-side similarity (sss-similarity) (theorem)",
+                "8.Side-angle-side similarity (sas-similarity) (theorem)",
+                "9.Relation between areas of two similar triangles (theorem)",
+                "10.Result on area of similar triangles",
+                "11.Pythagoras theorem",
+                "12.Converse of pythagoras theorem (theorem)",
+                "13.Some important results deduced frompythagoras theorem",
+                "14.Vertical angle bisector theorem",
+                "15.Converse of vertical angle bisector theorem",
+                "16.Concurrency-geometric centres of a triangle"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1972,
+          "topic_name": "Statistics",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Statistics",
+              "id": 474,
+              "total_pages": 24,
+              "updated_at": "2018-04-04T12:31:34.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Some basic definitions",
+                "3.Tabulation or presentation of data",
+                "4.Central tendency",
+                "5.Mean (arithmetic mean of individual observations) or ungrouped data",
+                "6.Some important results about mean",
+                "7.Median",
+                "8.Some important facts about median",
+                "9.Mode",
+                "10.Some important facts about mode",
+                "11.Empirical relationship among mean",
+                "12.Median and mode",
+                "13.Graphical representation",
+                "14.Median by graph"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1973,
+          "topic_name": "Quadratic Equation",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Quadratic Equation",
+              "id": 475,
+              "total_pages": 14,
+              "updated_at": "2018-04-04T12:32:20.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Quadratic equation",
+                "3.Methods of solving quadratic equations",
+                "4.Discriminant and the nature of roots",
+                "5.Relation between roots and coefficients of ax2 + bx + c = 0",
+                "6.Equation reducible to quadratic form",
+                "7.To form a quadratic equation with roots alpha and beta",
+                "8.Condition for common roots",
+                "9.Graph of quadratic expressions",
+                "10.Nature of the roots",
+                "11.Signs of the roots",
+                "12.Maximum or minimum value of a quadratic expression",
+                "13.Roots of cubic and biquadratic equations"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1974,
+          "topic_name": "Arithmetic Progression",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Arithmetic Progression",
+              "id": 476,
+              "total_pages": 7,
+              "updated_at": "2018-04-04T12:33:10.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Sequence",
+                "3.Series",
+                "4.Progression",
+                "5.Arithmetic progression (a.p.)",
+                "6.Some important results",
+                "7.Geometric progression (g.p.)",
+                "8.Relationship between a.m. and g.m."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1975,
+          "topic_name": "Some Applications of Trignometry",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Height & Distance",
+              "id": 477,
+              "total_pages": 3,
+              "updated_at": "2018-04-04T12:33:46.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Line of sight",
+                "3.Angle of elevation",
+                "4.Angle of depression"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1976,
+          "topic_name": "Coordinate Geometry",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Coordinate Geometry",
+              "id": 478,
+              "total_pages": 11,
+              "updated_at": "2018-04-04T12:34:26.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Cartesian coordinates",
+                "3.Co-ordinate axes and cartesian plane",
+                "4.Quadrant",
+                "5.Cartesian co-ordinates of a point",
+                "6.Distance formula",
+                "7.Section formula",
+                "8.Points of trisection",
+                "9.Area of triangle",
+                "10.Area of a quadrilateral:",
+                "11.Condition of collinearity of three points",
+                "12.Centroid of a triangle :",
+                "13.Incentre of a triangle",
+                "14.Circumcentre",
+                "15.Orthocentre",
+                "16.Polar coordinates",
+                "17.Image of an object in a mirror"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1977,
+          "topic_name": "Circle",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Circle",
+              "id": 479,
+              "total_pages": 15,
+              "updated_at": "2018-04-04T12:35:20.000Z",
+              "concepts": [
+                "1.Introduction.",
+                "2.Circle",
+                "3.Tangent to a circle",
+                "4.Congruent and concentric circles",
+                "5.Cyclic quadrilateral",
+                "6.Alternate segment and its angles",
+                "7.Converse of alternate segment theorem"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1978,
+          "topic_name": "Surface Areas & Volumes",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Surface Area & Volumes",
+              "id": 480,
+              "total_pages": 16,
+              "updated_at": "2018-04-04T12:36:15.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Frustum of a right circular cone",
+                "3.Volume and surface area of a frustum of a right circular cone",
+                "4.Surface area and volume of combination of solids",
+                "5.Volume of combination of solids",
+                "6.Conversion of solid from one shape to another",
+                "7.Pipes and canals",
+                "8.Prism",
+                "9.Pyramid"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1979,
+          "topic_name": "Area Related to Circle﻿",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Area Related to Circle",
+              "id": 481,
+              "total_pages": 7,
+              "updated_at": "2018-04-04T12:36:53.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Circle and its related terms",
+                "3.Perimeter and area of a circle -a review"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1980,
+          "topic_name": "Probability",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Probability",
+              "id": 482,
+              "total_pages": 6,
+              "updated_at": "2018-04-04T12:37:32.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Probability – a theoretical / approach .",
+                "3.Sum of the probabilities of all the elementary event of an experiment",
+                "4.Essential points",
+                "5.Measurement of probability",
+                "6.Algebra of events",
+                "7.Addition theoremof probability",
+                "8.Multiplication theorem of probability"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1981,
+          "topic_name": "Constructions",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Constructions",
+              "id": 483,
+              "total_pages": 11,
+              "updated_at": "2018-04-04T12:38:08.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Divison of a line segment",
+                "3.Alternativemethod for division of a line segment internally in a given ratio",
+                "4.Constructions of a triangle similar to a given triangle",
+                "5.Construction of tangents to a circle"
+              ]
+            }
+          ]
+        }
+      ],
+      "biology": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1952,
+          "topic_name": "Life Process",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Life Process Set I",
+              "id": 442,
+              "total_pages": 23,
+              "updated_at": "2018-04-03T08:41:19.000Z",
+              "concepts": [
+                "1.INTRODUCTION",
+                "2.NUTRITION"
+              ]
+            },
+            {
+              "name": "Life Process Set II",
+              "id": 443,
+              "total_pages": 26,
+              "updated_at": "2018-04-03T08:47:52.000Z",
+              "concepts": [
+                "3.RESPIRATION",
+                "4.TRANSPORTATION,EXCRETION"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1953,
+          "topic_name": "Control & Coordination",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Control & Coordination",
+              "id": 444,
+              "total_pages": 20,
+              "updated_at": "2018-04-03T08:48:59.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Nervous system and sense organs of animals",
+                "3.Spinal cord",
+                "4.Reflex action and reflex arc",
+                "5.Human brain",
+                "6.Coordination in plants",
+                "7.Plant hormone",
+                "8.Hormones in animals",
+                "9.Homeostasis and feed back",
+                "10.A comparison between neural and chemical control"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1982,
+          "topic_name": "How do Organisms Reproduce",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "How do Organisms Reproduce",
+              "id": 445,
+              "total_pages": 29,
+              "updated_at": "2018-04-03T08:49:56.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Forms of reproduction",
+                "3.Asexual reproduction",
+                "4.Type of asexual reproduction",
+                "5.Sexual reproduction",
+                "6.Sexual reproduction in plants",
+                "7.Pollination",
+                "8.Fertilization in a flowering plants",
+                "9.Fruit",
+                "10.Seed",
+                "11.Reproduction in human beings",
+                "12.Male reproductive system",
+                "13.Female reproductive system",
+                "14.Sexual cycle in human female",
+                "15.Menstruation",
+                "16.Fertilization",
+                "17.Artificial insemination",
+                "18.Reproductive health"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1983,
+          "topic_name": "Heredity & Evolution",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Heredity & Evolution",
+              "id": 446,
+              "total_pages": 20,
+              "updated_at": "2018-04-03T08:51:00.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Variations",
+                "3.Type of variation",
+                "4.Mendel's contribution",
+                "5.Monohybrid cross",
+                "6.Dihybrid cross",
+                "7.Mendel's laws of inheritance",
+                "8.Sex determination",
+                "9.Evolution",
+                "10.Acquired and inherited traits",
+                "11.Origin of life",
+                "12.Speciation",
+                "13.Evolution and classification",
+                "14.Evidences in favour of evolution",
+                "15.Evidence from fossils",
+                "16.Evolution by stages",
+                "17.Molecular phylogeny",
+                "18.Evolution should not be equated with ‘progress",
+                "19.Human evolution"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1984,
+          "topic_name": "Our Environment",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Our Environment",
+              "id": 447,
+              "total_pages": 19,
+              "updated_at": "2018-04-03T08:51:40.000Z",
+              "concepts": [
+                "1.Environment",
+                "2.Ecosystem",
+                "3.Type of ecosystem",
+                "4.Component of ecosystem",
+                "5.Structure of an ecosystem",
+                "6.Functions of an ecosystem",
+                "7.Food chain",
+                "8.Type of food chain",
+                "9.Significance of food chain",
+                "10.Foodweb",
+                "11.Ecological pyramids",
+                "12.Plant communityflow (transfer) of energy in an ecosystem",
+                "13.Biologicalmagnification",
+                "14.Effects of human activities on environment",
+                "15.Ozone layer depletion",
+                "16.Water pollution",
+                "17.Sewage",
+                "18.Industrial wastes",
+                "19.Biological oxygen demand (bod)",
+                "20.Biologicalmonitoring",
+                "21.Soil pollution",
+                "22.Noise pollution"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1985,
+          "topic_name": "Management of Natural Resources",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Management of Natural Resources",
+              "id": 448,
+              "total_pages": 20,
+              "updated_at": "2018-04-03T08:52:36.000Z",
+              "concepts": [
+                "1.Resource",
+                "2.Natural resource",
+                "3.Management of natural resources",
+                "4.Biodiversity",
+                "5.Practices for conservation and protection of environment",
+                "6.Wild life",
+                "7.Stake holders of forests",
+                "8.Bishnoi community of rajasthan",
+                "9.Red data book",
+                "10.Best strategy for forest management",
+                "10.Chipkomovement",
+                "11.Joint forest management(JFM)",
+                "12.Water as a basic natural resource",
+                "13.Why do we need to manage our resources",
+                "14.Fossil fuels"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

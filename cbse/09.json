@@ -1,0 +1,1245 @@
+"study_materials": {
+      "physics": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1987,
+          "topic_name": "Work Energy & Power",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Work, Energy & Power",
+              "id": 408,
+              "total_pages": 29,
+              "updated_at": "2018-03-22T08:16:27.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Work",
+                "3.Energy",
+                "4.Energy Transformations",
+                "5.Law of conservation of energy",
+                "6.Conservation of energy",
+                "7.Power"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1950,
+          "topic_name": "Force & Laws of Motion",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Force & Laws of Motion",
+              "id": 409,
+              "total_pages": 24,
+              "updated_at": "2018-03-23T11:53:10.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Force",
+                "3.Inertia",
+                "4.Newton's first law of motion",
+                "5.Momentum",
+                "6.Newton's second law of motion",
+                "7.Newton's third law of motion",
+                "8.Laws of conservation of momemtum",
+                "9.Impulse",
+                "10.Friction"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1951,
+          "topic_name": "Gravitation",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Gravitation",
+              "id": 410,
+              "total_pages": 28,
+              "updated_at": "2018-03-26T03:55:26.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Kepler's laws of planetary motion",
+                "3.Gravity and gravitation",
+                "4.Universal lawofgravitationornewton's lawofgravitation",
+                "5.Free fall and acceleration due to gravity at the surface of the earth",
+                "6.Centre of mass and centre of gravity",
+                "7.Variation in the value of 'g'",
+                "8.Mass of body",
+                "9.Weight of a body",
+                "10.Weightlessness",
+                "11.Orbital speed of satellite",
+                "12.Time period",
+                "13.Escape velocity",
+                "14.Motion of bodies moving freely under gravity"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1986,
+          "topic_name": "Flotation",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Flotation",
+              "id": 411,
+              "total_pages": 20,
+              "updated_at": "2018-03-26T03:57:08.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Trust",
+                "3.Pressure",
+                "4.Buoyancy",
+                "5.Archimedes principle",
+                "6.Density & relative density (specific gravity)"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1988,
+          "topic_name": "Sound",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Sound",
+              "id": 412,
+              "total_pages": 28,
+              "updated_at": "2018-03-26T04:00:39.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Wave or wave motion",
+                "3.Propagation of sound",
+                "4.Waves",
+                "5.The nature of sound and its propagation",
+                "6.Sound needs a medium to travel",
+                "7.Audible and inaudible sounds (range of hearing in human)",
+                "8.Reflection of sound",
+                "9.Structure of the human ear (hearing device)"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1949,
+          "topic_name": "Motion",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Motion Set1",
+              "id": 440,
+              "total_pages": 14,
+              "updated_at": "2018-03-26T05:26:55.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Concept of a point object",
+                "3.Rest and motion and reference point",
+                "4.Motion in one dimension",
+                "5.Uniform and non-uniform motion",
+                "6.Scalar and vector quantities",
+                "7.Distance",
+                "8.Displacement",
+                "9.Comparative study of displacement and distance",
+                "10.Speed",
+                "11.Distance by speed-time graph",
+                "12.Velocity",
+                "13.Comparative study of speed and velocity"
+              ]
+            },
+            {
+              "name": "Motion Set2",
+              "id": 441,
+              "total_pages": 23,
+              "updated_at": "2018-03-26T05:27:21.000Z",
+              "concepts": [
+                "14.Acceleration",
+                "15.Distance time graph",
+                "16.Equation of motion by graphical method",
+                "17.Circular motion",
+                "18.Equation of motion by graphical method",
+                "19.Circular motion"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2147,
+          "topic_name": "Measurements and Experimentation (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2148,
+          "topic_name": "Motion in one dimension (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2149,
+          "topic_name": "Laws of Motion (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2150,
+          "topic_name": "Fluids  (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2151,
+          "topic_name": "Heat and Energy (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2152,
+          "topic_name": "Light (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2153,
+          "topic_name": "Sound  (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2178,
+          "topic_name": "Magnetism",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2179,
+          "topic_name": "Current Electricity",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        }
+      ],
+      "chemistry": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1945,
+          "topic_name": "Matter in Our Surrounding﻿",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Matter in Our Surrounding",
+              "id": 413,
+              "total_pages": 22,
+              "updated_at": "2018-03-26T04:01:53.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Classification of matter",
+                "3.Physical nature of matter",
+                "4.Characteristics of particles of matter",
+                "5.States of matter",
+                "6.Can matter change its state",
+                "7.Evaporation"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1946,
+          "topic_name": "Is Matter Around us Pure",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Is Matter Around Us Pure Set1",
+              "id": 414,
+              "total_pages": 19,
+              "updated_at": "2018-03-28T09:24:13.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Chemical classification of matter",
+                "3.Pure substances and types of pure substances",
+                "4.Mixture",
+                "5.Solution",
+                "6.Concentration of a solution"
+              ]
+            },
+            {
+              "name": "Is Matter Around Us Pure Set2",
+              "id": 415,
+              "total_pages": 17,
+              "updated_at": "2018-03-28T09:23:47.000Z",
+              "concepts": [
+                "7.Colloidal solution or colloids",
+                "8.Physical and chemical changes"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2005,
+          "topic_name": "Atoms and Molecules",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Atoms and Molecules",
+              "id": 416,
+              "total_pages": 28,
+              "updated_at": "2018-03-26T04:17:51.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Lawof chemical combination",
+                "3.Dalton’s atomic theory",
+                "4.Atoms",
+                "5.Molecule",
+                "6.Ion",
+                "7.Writing formulae of molecular compounds",
+                "8.Atomic",
+                "9.Molecular and equivalent masses",
+                "10.Formula mass (molar mass)"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2006,
+          "topic_name": "Atomic Structure",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Atomic Structure",
+              "id": 417,
+              "total_pages": 25,
+              "updated_at": "2018-03-26T04:18:32.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Dalton’s atomic theory",
+                "3.Charged particles in matter",
+                "4.Thomson atomic model(the raisin pudding model) (plum pudding model): first atomic model",
+                "5.Rutherford model of an atom",
+                "6.Bohr’s model of atom/neil bohr [1885-1962]"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2155,
+          "topic_name": "The Language of Chemistry (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2156,
+          "topic_name": "Chemical changes and reactions (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2157,
+          "topic_name": "Water (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2158,
+          "topic_name": "Atomic Structure and Chemical bonding (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2159,
+          "topic_name": "The Periodic Table (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2160,
+          "topic_name": "Study of the First Element -Hydrogen (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2161,
+          "topic_name": "Study of Gas Laws (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2162,
+          "topic_name": "Atmospheric pollution (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        }
+      ],
+      "math": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1947,
+          "topic_name": "Number System",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Number System",
+              "id": 418,
+              "total_pages": 23,
+              "updated_at": "2018-03-26T04:20:07.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Number system",
+                "3.Rational numbers",
+                "4.Test of divisibility",
+                "5.Irrational number",
+                "6.Real numbers",
+                "7.Exponents",
+                "8.Radicals",
+                "9.Rationalisation of denominator",
+                "10.To find the number of divisors of a composite number",
+                "11.Absolute value or modulus of a rational number",
+                "12.Hcf and lcm of fractions",
+                "13.To find unit digit in exponential expression"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1948,
+          "topic_name": "Polynomials",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Polynomials",
+              "id": 419,
+              "total_pages": 17,
+              "updated_at": "2018-03-26T04:27:07.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Polynomials",
+                "3.Types of polynomials",
+                "4.Zeros of a polynomial",
+                "5.Remainder theorem",
+                "6.Factor theorem",
+                "7.Factorization of polynomials",
+                "8.Mathematical operations on polynomials",
+                "9.Division algorithm",
+                "10.Factorization of cubic polynomial",
+                "11.Hcf of given polynomials",
+                "12.Lcm of given polynomials",
+                "13.Concept of square roots",
+                "14.Homogeneous expression",
+                "15.Symmetric expression",
+                "16.Cyclic expression"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1989,
+          "topic_name": "Coordinate Geometry",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Coordinate Geometry",
+              "id": 420,
+              "total_pages": 11,
+              "updated_at": "2018-03-26T04:27:40.000Z",
+              "concepts": [
+                "1.Introduction...",
+                "2.Rectangular coordinate axes",
+                "3.Cartesian coordinates of a point",
+                "4.Quadrants",
+                "5.Plotting of points in the cartesian plane",
+                "6.Distance between two points",
+                "7.Section formula",
+                "8.Centroid of a triangle",
+                "9.Area of a triangle",
+                "10.Area of a quadrilateral"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1990,
+          "topic_name": "Triangles",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Triangles",
+              "id": 421,
+              "total_pages": 17,
+              "updated_at": "2018-03-26T04:28:50.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Congruence of two figures",
+                "3.Criteria for congruence of triangles",
+                "4.Properties of an isosceles triangle",
+                "5.Sides and angles of a triangle",
+                "6.Sum and difference of two sides of triangle",
+                "7.Concept of similarity",
+                "8.Basic proportionality theorem (thales theorem)",
+                "9.Converse of basic proportionality theorem"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1991,
+          "topic_name": "Introduction to Euclid's Geometry",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Introduction to Euclid's Geometry",
+              "id": 422,
+              "total_pages": 10,
+              "updated_at": "2018-03-26T04:31:25.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Euclid’s definition",
+                "3.Axioms and postulates",
+                "4.Some definitions"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1992,
+          "topic_name": "Lines & Angles",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Lines & Angles",
+              "id": 423,
+              "total_pages": 12,
+              "updated_at": "2018-03-26T04:32:20.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Line",
+                "3.Line-segment and ray",
+                "4.Angles and their properties",
+                "5.Parallel lines",
+                "6.Triangle",
+                "7.The polygon"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1993,
+          "topic_name": "Heron’s Formula",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Heron's Formula",
+              "id": 424,
+              "total_pages": 8,
+              "updated_at": "2018-03-26T04:32:56.000Z",
+              "concepts": [
+                "1.Indroduction",
+                "2.Area of triangle",
+                "3.Mensuration of a quadrilateral"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1994,
+          "topic_name": "Linear Equations in Two Variables",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Linear Equation in Two Variables",
+              "id": 425,
+              "total_pages": 9,
+              "updated_at": "2018-03-26T04:33:56.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Linear equation",
+                "3.Simple equation",
+                "4.Linear equation in two variables",
+                "5.Solution of a linear equation in two variables",
+                "6.Obtaining the solution of a linear equation in two variables",
+                "7.Graph of linear equation in two variables",
+                "8.Application of linear equations in two variables",
+                "9.System of simultaneous linear equations",
+                "10.Solution of simultaneous linear equations",
+                "11.Graphical solution of linear simultaneous equations",
+                "12.Algebraic methods of solving a pair of linear equations",
+                "13.Substitutionmethod",
+                "14.Eliminationmethod"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1995,
+          "topic_name": "Quadrilaterals",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Quadrilaterals",
+              "id": 426,
+              "total_pages": 11,
+              "updated_at": "2018-03-26T04:34:45.000Z",
+              "concepts": [
+                "1.Introduction.",
+                "2.Various types of quadrilaterals",
+                "3.Parallelogram",
+                "4.Trapezium",
+                "5.Rectangle",
+                "6.Rhombus",
+                "7.Square",
+                "8.Isosceles trapezium",
+                "9.Kite",
+                "10.Convex quadrilateral",
+                "11.Concave quadrilateral",
+                "12.Sumof the angle of a quadrilateral (angle sumproperty of quadrilateral)",
+                "13.Venn-diagram of the relations between special type parallelograms",
+                "14.Transversal and intercept"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1996,
+          "topic_name": "Area of Parallelograms & Triangles",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Area of Parellolograms & Triangles",
+              "id": 427,
+              "total_pages": 5,
+              "updated_at": "2018-03-26T04:35:41.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Concept of congruent figure with respect to area",
+                "3.Area axioms",
+                "4.Parallelograms on the same base and between the same parallels",
+                "5.Figures on the same base and between the same paralles",
+                "6.Triangles on the same base and between the same paralleles"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1997,
+          "topic_name": "Circle",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Circle",
+              "id": 428,
+              "total_pages": 18,
+              "updated_at": "2018-03-26T04:36:21.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Terms related to circle",
+                "3.Cyclic quadrilateral",
+                "4.Angle subtended by an arc at the centre",
+                "5.Tangent of a circle",
+                "6.Circle through given points"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1998,
+          "topic_name": "Surface Area & Volume",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Surface Area & Volume",
+              "id": 429,
+              "total_pages": 27,
+              "updated_at": "2018-03-26T04:37:15.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Solids",
+                "3.Cuboid",
+                "4.Cube",
+                "5.Right Circular Cylinder",
+                "6.Hollow Cylinder",
+                "7.Right Circular Cone",
+                "8.Sphere",
+                "9.Hemisphere",
+                "10.Sphericalshell",
+                "11.Hemisphericalshell",
+                "12.Frustumofcone",
+                "13.Prisms",
+                "14.Pyramid"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1999,
+          "topic_name": "Statistics",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Statistics",
+              "id": 430,
+              "total_pages": 30,
+              "updated_at": "2018-03-26T05:08:26.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.Statistics and Statistical Data",
+                "3.Graphical Representation Of Statistical Data",
+                "4.Measures Of Central Tendency",
+                "5.Median"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2000,
+          "topic_name": "Probability",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2001,
+          "topic_name": "Construction",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Construction",
+              "id": 432,
+              "total_pages": 30,
+              "updated_at": "2018-03-26T05:09:35.000Z",
+              "concepts": [
+                "1.Introduction",
+                "2.To Construct The Bisector Of A Given Angle",
+                "3.To Construct The Perpendicular Bisector Of A Given Line Segment",
+                "4.To Construct An Angle Of 60° At The Initial Point Of A Given Ray",
+                "5.To Construct A Triangle Given Its Base, A Base Angle And Sum Of Other Two Sides",
+                "6.Alternative Method Of Construction",
+                "7.To Construct A Triangle, Given Its Base, A Base Angle And The Difference Of The Other Two Sides",
+                "8.To Construct A Triangle, Given Its Perimeter And Its Two Base Angles"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2163,
+          "topic_name": "Rational and Irrational Numbers (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2164,
+          "topic_name": "Compound Interest (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2165,
+          "topic_name": "Algebra (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2166,
+          "topic_name": "Geometry (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2167,
+          "topic_name": "Statistics  (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2168,
+          "topic_name": "Mensuration (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2169,
+          "topic_name": "Trigonometry  (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2170,
+          "topic_name": "Co-ordinate Geometry (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        }
+      ],
+      "biology": [
+        {
+        "videos": "80 Videos",
+        "questions": "300 Questions",
+        "tests": "5 Test Series"
+        },
+        {
+          "topic_id": 1942,
+          "topic_name": "Fundamental Unit of Life",
+          "assigned": false,
+          "locked": false,
+          "has_videos": true,
+          "has_theory": true,
+          "sub_topic": [
+            {
+              "name": "Fundamental Unit of Life",
+              "id": 433,
+              "total_pages": 18,
+              "updated_at": "2018-03-26T05:11:44.000Z",
+              "concepts": [
+                "1.Cell theory",
+                "2.Types of cell & organism",
+                "3.Cell structure",
+                "4.Shape",
+                "5.Size and number",
+                "6.Microscope",
+                "7.Parts of a cell",
+                "8.Cell and their types",
+                "9.Atomic number and mass number",
+                "10.Electronic configuration",
+                "11.Valence electrons and valency",
+                "12.Radioactivity"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1943,
+          "topic_name": "Tissues",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Tissues",
+              "id": 434,
+              "total_pages": 23,
+              "updated_at": "2018-03-26T05:12:30.000Z",
+              "concepts": [
+                "1.Planet tissue",
+                "2.Plant tissue system",
+                "3.Animal tissue"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 1944,
+          "topic_name": "Improvement in Food Resources",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Improvement in Food Resources",
+              "id": 435,
+              "total_pages": 20,
+              "updated_at": "2018-03-26T05:13:07.000Z",
+              "concepts": [
+                "1.Horticulture",
+                "2.Green revolution",
+                "3.Improvement incrops yields",
+                "4.Animal husbandry"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2002,
+          "topic_name": "Diversity in Living World",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Diversity in Living World Set1",
+              "id": 436,
+              "total_pages": 21,
+              "updated_at": "2018-03-26T05:15:03.000Z",
+              "concepts": [
+                "1.Diversity in the living world",
+                "2.Classification and evolution",
+                "3.Taxonomy",
+                "4.Nomenclature",
+                "5.Kingdom systems",
+                "6.Plantclassification",
+                "7.Animal classification",
+                "8.Phylum hemichordata"
+              ]
+            },
+            {
+              "name": "Diversity in Living World Set2",
+              "id": 437,
+              "total_pages": 14,
+              "updated_at": "2018-03-26T05:15:24.000Z",
+              "concepts": [
+                "9.Chordata"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2003,
+          "topic_name": "Why Do We Fall ill",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Why Do We Fall ill",
+              "id": 438,
+              "total_pages": 27,
+              "updated_at": "2018-03-26T05:18:26.000Z",
+              "concepts": [
+                "1.Importance of good heath",
+                "2.Personal and community issues in relation to health",
+                "3.Term related to disease",
+                "4.Causes of diseases",
+                "5.Types of diseases",
+                "6.Congenital and acquired diseases",
+                "7.Infectious agents",
+                "8.Modes of transmission of diseases",
+                "9.Organ-specific and tissue-specific",
+                "10.Manifestations of disease-causing microbes",
+                "11.Principles of treatment",
+                "12.Principles of preventing diseases",
+                "13.Vaccination",
+                "14.Immunity",
+                "15.Viral diseases",
+                "16.Bacterial diseases",
+                "17.Protozoan diseases",
+                "18.Helminthal diseases (worms)"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2004,
+          "topic_name": "Natural Resources",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            {
+              "name": "Natural Resources",
+              "id": 439,
+              "total_pages": 21,
+              "updated_at": "2018-03-26T05:23:00.000Z",
+              "concepts": [
+                "1.Types of natural resources",
+                "2.Air - the breath of life",
+                "3.Atmosphere and climate control",
+                "4.Rain",
+                "5.Air pollution",
+                "6.Harmful effects of air pollution",
+                "7.Water : a precious resource",
+                "8.Water pollution",
+                "9.Soil",
+                "10.Biogeochemical cycle",
+                "11.Carbon cycle",
+                "12.Water cycle",
+                "13.Nitrogen cycle",
+                "14.Oxygen cycle",
+                "15.Ozonelayer",
+                "16.Green house effect"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_id": 2171,
+          "topic_name": "Cell and Tissues (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2172,
+          "topic_name": "Flowering Plants  (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2173,
+          "topic_name": "Plant Physiology (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2174,
+          "topic_name": "Diversity in Living Organisms / Eco systems  (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": true,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2175,
+          "topic_name": "Human Anatomy and Physiology (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2176,
+          "topic_name": "Health and Hygiene  (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        },
+        {
+          "topic_id": 2177,
+          "topic_name": "Waste generation and management (ICSE)",
+          "assigned": false,
+          "locked": true,
+          "has_videos": false,
+          "has_theory": false,
+          "sub_topic": [
+            
+          ]
+        }
+      ]
+    }
+  }
